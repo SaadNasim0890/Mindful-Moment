@@ -1,0 +1,6290 @@
+[
+  {
+    "emotion": "Stressed",
+    "action": "Box Breathing (Level 1)",
+    "description": "Inhale 4s, hold 4s, exhale 4s, hold 4s. Repeat 3 times.",
+    "duration_minutes": 3,
+    "tags": [
+      "breathing",
+      "calm",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Box Breathing (Level 2)",
+    "description": "Inhale 4s, hold 4s, exhale 4s, hold 4s. Repeat 5 times.",
+    "duration_minutes": 4,
+    "tags": [
+      "breathing",
+      "calm",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Box Breathing (Level 3)",
+    "description": "Inhale 4s, hold 4s, exhale 4s, hold 4s. Repeat 7 times.",
+    "duration_minutes": 2,
+    "tags": [
+      "breathing",
+      "calm",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Box Breathing (Level 4)",
+    "description": "Inhale 4s, hold 4s, exhale 4s, hold 4s. Repeat 9 times.",
+    "duration_minutes": 3,
+    "tags": [
+      "breathing",
+      "calm",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Box Breathing (Level 5)",
+    "description": "Inhale 4s, hold 4s, exhale 4s, hold 4s. Repeat 11 times.",
+    "duration_minutes": 4,
+    "tags": [
+      "breathing",
+      "calm",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Box Breathing (Level 6)",
+    "description": "Inhale 4s, hold 4s, exhale 4s, hold 4s. Repeat 13 times.",
+    "duration_minutes": 2,
+    "tags": [
+      "breathing",
+      "calm",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Box Breathing (Level 7)",
+    "description": "Inhale 4s, hold 4s, exhale 4s, hold 4s. Repeat 15 times.",
+    "duration_minutes": 3,
+    "tags": [
+      "breathing",
+      "calm",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Box Breathing (Level 8)",
+    "description": "Inhale 4s, hold 4s, exhale 4s, hold 4s. Repeat 17 times.",
+    "duration_minutes": 4,
+    "tags": [
+      "breathing",
+      "calm",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Box Breathing (Level 9)",
+    "description": "Inhale 4s, hold 4s, exhale 4s, hold 4s. Repeat 19 times.",
+    "duration_minutes": 2,
+    "tags": [
+      "breathing",
+      "calm",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Box Breathing (Level 10)",
+    "description": "Inhale 4s, hold 4s, exhale 4s, hold 4s. Repeat 21 times.",
+    "duration_minutes": 3,
+    "tags": [
+      "breathing",
+      "calm",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Box Breathing (Level 11)",
+    "description": "Inhale 4s, hold 4s, exhale 4s, hold 4s. Repeat 23 times.",
+    "duration_minutes": 4,
+    "tags": [
+      "breathing",
+      "calm",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Box Breathing (Level 12)",
+    "description": "Inhale 4s, hold 4s, exhale 4s, hold 4s. Repeat 25 times.",
+    "duration_minutes": 2,
+    "tags": [
+      "breathing",
+      "calm",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Box Breathing (Level 13)",
+    "description": "Inhale 4s, hold 4s, exhale 4s, hold 4s. Repeat 27 times.",
+    "duration_minutes": 3,
+    "tags": [
+      "breathing",
+      "calm",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Box Breathing (Level 14)",
+    "description": "Inhale 4s, hold 4s, exhale 4s, hold 4s. Repeat 29 times.",
+    "duration_minutes": 4,
+    "tags": [
+      "breathing",
+      "calm",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Box Breathing (Level 15)",
+    "description": "Inhale 4s, hold 4s, exhale 4s, hold 4s. Repeat 31 times.",
+    "duration_minutes": 2,
+    "tags": [
+      "breathing",
+      "calm",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Box Breathing (Level 16)",
+    "description": "Inhale 4s, hold 4s, exhale 4s, hold 4s. Repeat 33 times.",
+    "duration_minutes": 3,
+    "tags": [
+      "breathing",
+      "calm",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Box Breathing (Level 17)",
+    "description": "Inhale 4s, hold 4s, exhale 4s, hold 4s. Repeat 35 times.",
+    "duration_minutes": 4,
+    "tags": [
+      "breathing",
+      "calm",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Box Breathing (Level 18)",
+    "description": "Inhale 4s, hold 4s, exhale 4s, hold 4s. Repeat 37 times.",
+    "duration_minutes": 2,
+    "tags": [
+      "breathing",
+      "calm",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Box Breathing (Level 19)",
+    "description": "Inhale 4s, hold 4s, exhale 4s, hold 4s. Repeat 39 times.",
+    "duration_minutes": 3,
+    "tags": [
+      "breathing",
+      "calm",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Shoulder Roll (Level 1)",
+    "description": "Roll your shoulders backwards 3 times slowly.",
+    "duration_minutes": 2,
+    "tags": [
+      "body",
+      "relaxation",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Shoulder Roll (Level 2)",
+    "description": "Roll your shoulders backwards 5 times slowly.",
+    "duration_minutes": 3,
+    "tags": [
+      "body",
+      "relaxation",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Shoulder Roll (Level 3)",
+    "description": "Roll your shoulders backwards 7 times slowly.",
+    "duration_minutes": 1,
+    "tags": [
+      "body",
+      "relaxation",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Shoulder Roll (Level 4)",
+    "description": "Roll your shoulders backwards 9 times slowly.",
+    "duration_minutes": 2,
+    "tags": [
+      "body",
+      "relaxation",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Shoulder Roll (Level 5)",
+    "description": "Roll your shoulders backwards 11 times slowly.",
+    "duration_minutes": 3,
+    "tags": [
+      "body",
+      "relaxation",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Shoulder Roll (Level 6)",
+    "description": "Roll your shoulders backwards 13 times slowly.",
+    "duration_minutes": 1,
+    "tags": [
+      "body",
+      "relaxation",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Shoulder Roll (Level 7)",
+    "description": "Roll your shoulders backwards 15 times slowly.",
+    "duration_minutes": 2,
+    "tags": [
+      "body",
+      "relaxation",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Shoulder Roll (Level 8)",
+    "description": "Roll your shoulders backwards 17 times slowly.",
+    "duration_minutes": 3,
+    "tags": [
+      "body",
+      "relaxation",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Shoulder Roll (Level 9)",
+    "description": "Roll your shoulders backwards 19 times slowly.",
+    "duration_minutes": 1,
+    "tags": [
+      "body",
+      "relaxation",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Shoulder Roll (Level 10)",
+    "description": "Roll your shoulders backwards 21 times slowly.",
+    "duration_minutes": 2,
+    "tags": [
+      "body",
+      "relaxation",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Shoulder Roll (Level 11)",
+    "description": "Roll your shoulders backwards 23 times slowly.",
+    "duration_minutes": 3,
+    "tags": [
+      "body",
+      "relaxation",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Shoulder Roll (Level 12)",
+    "description": "Roll your shoulders backwards 25 times slowly.",
+    "duration_minutes": 1,
+    "tags": [
+      "body",
+      "relaxation",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Shoulder Roll (Level 13)",
+    "description": "Roll your shoulders backwards 27 times slowly.",
+    "duration_minutes": 2,
+    "tags": [
+      "body",
+      "relaxation",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Shoulder Roll (Level 14)",
+    "description": "Roll your shoulders backwards 29 times slowly.",
+    "duration_minutes": 3,
+    "tags": [
+      "body",
+      "relaxation",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Shoulder Roll (Level 15)",
+    "description": "Roll your shoulders backwards 31 times slowly.",
+    "duration_minutes": 1,
+    "tags": [
+      "body",
+      "relaxation",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Shoulder Roll (Level 16)",
+    "description": "Roll your shoulders backwards 33 times slowly.",
+    "duration_minutes": 2,
+    "tags": [
+      "body",
+      "relaxation",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Shoulder Roll (Level 17)",
+    "description": "Roll your shoulders backwards 35 times slowly.",
+    "duration_minutes": 3,
+    "tags": [
+      "body",
+      "relaxation",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Shoulder Roll (Level 18)",
+    "description": "Roll your shoulders backwards 37 times slowly.",
+    "duration_minutes": 1,
+    "tags": [
+      "body",
+      "relaxation",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Shoulder Roll (Level 19)",
+    "description": "Roll your shoulders backwards 39 times slowly.",
+    "duration_minutes": 2,
+    "tags": [
+      "body",
+      "relaxation",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Desk Declutter (Level 1)",
+    "description": "Organize just 3 items on your desk to clear your mind.",
+    "duration_minutes": 4,
+    "tags": [
+      "environment",
+      "clarity",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Desk Declutter (Level 2)",
+    "description": "Organize just 5 items on your desk to clear your mind.",
+    "duration_minutes": 5,
+    "tags": [
+      "environment",
+      "clarity",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Desk Declutter (Level 3)",
+    "description": "Organize just 7 items on your desk to clear your mind.",
+    "duration_minutes": 3,
+    "tags": [
+      "environment",
+      "clarity",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Desk Declutter (Level 4)",
+    "description": "Organize just 9 items on your desk to clear your mind.",
+    "duration_minutes": 4,
+    "tags": [
+      "environment",
+      "clarity",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Desk Declutter (Level 5)",
+    "description": "Organize just 11 items on your desk to clear your mind.",
+    "duration_minutes": 5,
+    "tags": [
+      "environment",
+      "clarity",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Desk Declutter (Level 6)",
+    "description": "Organize just 13 items on your desk to clear your mind.",
+    "duration_minutes": 3,
+    "tags": [
+      "environment",
+      "clarity",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Desk Declutter (Level 7)",
+    "description": "Organize just 15 items on your desk to clear your mind.",
+    "duration_minutes": 4,
+    "tags": [
+      "environment",
+      "clarity",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Desk Declutter (Level 8)",
+    "description": "Organize just 17 items on your desk to clear your mind.",
+    "duration_minutes": 5,
+    "tags": [
+      "environment",
+      "clarity",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Desk Declutter (Level 9)",
+    "description": "Organize just 19 items on your desk to clear your mind.",
+    "duration_minutes": 3,
+    "tags": [
+      "environment",
+      "clarity",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Desk Declutter (Level 10)",
+    "description": "Organize just 21 items on your desk to clear your mind.",
+    "duration_minutes": 4,
+    "tags": [
+      "environment",
+      "clarity",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Desk Declutter (Level 11)",
+    "description": "Organize just 23 items on your desk to clear your mind.",
+    "duration_minutes": 5,
+    "tags": [
+      "environment",
+      "clarity",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Desk Declutter (Level 12)",
+    "description": "Organize just 25 items on your desk to clear your mind.",
+    "duration_minutes": 3,
+    "tags": [
+      "environment",
+      "clarity",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Desk Declutter (Level 13)",
+    "description": "Organize just 27 items on your desk to clear your mind.",
+    "duration_minutes": 4,
+    "tags": [
+      "environment",
+      "clarity",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Desk Declutter (Level 14)",
+    "description": "Organize just 29 items on your desk to clear your mind.",
+    "duration_minutes": 5,
+    "tags": [
+      "environment",
+      "clarity",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Desk Declutter (Level 15)",
+    "description": "Organize just 31 items on your desk to clear your mind.",
+    "duration_minutes": 3,
+    "tags": [
+      "environment",
+      "clarity",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Desk Declutter (Level 16)",
+    "description": "Organize just 33 items on your desk to clear your mind.",
+    "duration_minutes": 4,
+    "tags": [
+      "environment",
+      "clarity",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Desk Declutter (Level 17)",
+    "description": "Organize just 35 items on your desk to clear your mind.",
+    "duration_minutes": 5,
+    "tags": [
+      "environment",
+      "clarity",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Desk Declutter (Level 18)",
+    "description": "Organize just 37 items on your desk to clear your mind.",
+    "duration_minutes": 3,
+    "tags": [
+      "environment",
+      "clarity",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Desk Declutter (Level 19)",
+    "description": "Organize just 39 items on your desk to clear your mind.",
+    "duration_minutes": 4,
+    "tags": [
+      "environment",
+      "clarity",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Quiet Sit (Level 1)",
+    "description": "Sit in silence for 3 minutes doing absolutely nothing.",
+    "duration_minutes": 6,
+    "tags": [
+      "mindfulness",
+      "rest",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Quiet Sit (Level 2)",
+    "description": "Sit in silence for 5 minutes doing absolutely nothing.",
+    "duration_minutes": 7,
+    "tags": [
+      "mindfulness",
+      "rest",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Quiet Sit (Level 3)",
+    "description": "Sit in silence for 7 minutes doing absolutely nothing.",
+    "duration_minutes": 5,
+    "tags": [
+      "mindfulness",
+      "rest",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Quiet Sit (Level 4)",
+    "description": "Sit in silence for 9 minutes doing absolutely nothing.",
+    "duration_minutes": 6,
+    "tags": [
+      "mindfulness",
+      "rest",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Quiet Sit (Level 5)",
+    "description": "Sit in silence for 11 minutes doing absolutely nothing.",
+    "duration_minutes": 7,
+    "tags": [
+      "mindfulness",
+      "rest",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Quiet Sit (Level 6)",
+    "description": "Sit in silence for 13 minutes doing absolutely nothing.",
+    "duration_minutes": 5,
+    "tags": [
+      "mindfulness",
+      "rest",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Quiet Sit (Level 7)",
+    "description": "Sit in silence for 15 minutes doing absolutely nothing.",
+    "duration_minutes": 6,
+    "tags": [
+      "mindfulness",
+      "rest",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Quiet Sit (Level 8)",
+    "description": "Sit in silence for 17 minutes doing absolutely nothing.",
+    "duration_minutes": 7,
+    "tags": [
+      "mindfulness",
+      "rest",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Quiet Sit (Level 9)",
+    "description": "Sit in silence for 19 minutes doing absolutely nothing.",
+    "duration_minutes": 5,
+    "tags": [
+      "mindfulness",
+      "rest",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Quiet Sit (Level 10)",
+    "description": "Sit in silence for 21 minutes doing absolutely nothing.",
+    "duration_minutes": 6,
+    "tags": [
+      "mindfulness",
+      "rest",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Quiet Sit (Level 11)",
+    "description": "Sit in silence for 23 minutes doing absolutely nothing.",
+    "duration_minutes": 7,
+    "tags": [
+      "mindfulness",
+      "rest",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Quiet Sit (Level 12)",
+    "description": "Sit in silence for 25 minutes doing absolutely nothing.",
+    "duration_minutes": 5,
+    "tags": [
+      "mindfulness",
+      "rest",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Quiet Sit (Level 13)",
+    "description": "Sit in silence for 27 minutes doing absolutely nothing.",
+    "duration_minutes": 6,
+    "tags": [
+      "mindfulness",
+      "rest",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Quiet Sit (Level 14)",
+    "description": "Sit in silence for 29 minutes doing absolutely nothing.",
+    "duration_minutes": 7,
+    "tags": [
+      "mindfulness",
+      "rest",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Quiet Sit (Level 15)",
+    "description": "Sit in silence for 31 minutes doing absolutely nothing.",
+    "duration_minutes": 5,
+    "tags": [
+      "mindfulness",
+      "rest",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Quiet Sit (Level 16)",
+    "description": "Sit in silence for 33 minutes doing absolutely nothing.",
+    "duration_minutes": 6,
+    "tags": [
+      "mindfulness",
+      "rest",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Quiet Sit (Level 17)",
+    "description": "Sit in silence for 35 minutes doing absolutely nothing.",
+    "duration_minutes": 7,
+    "tags": [
+      "mindfulness",
+      "rest",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Quiet Sit (Level 18)",
+    "description": "Sit in silence for 37 minutes doing absolutely nothing.",
+    "duration_minutes": 5,
+    "tags": [
+      "mindfulness",
+      "rest",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "Quiet Sit (Level 19)",
+    "description": "Sit in silence for 39 minutes doing absolutely nothing.",
+    "duration_minutes": 6,
+    "tags": [
+      "mindfulness",
+      "rest",
+      "stressed"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Water Break (Level 1)",
+    "description": "Drink 3 ml of cold water to rehydrate.",
+    "duration_minutes": 2,
+    "tags": [
+      "health",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Water Break (Level 2)",
+    "description": "Drink 5 ml of cold water to rehydrate.",
+    "duration_minutes": 3,
+    "tags": [
+      "health",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Water Break (Level 3)",
+    "description": "Drink 7 ml of cold water to rehydrate.",
+    "duration_minutes": 1,
+    "tags": [
+      "health",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Water Break (Level 4)",
+    "description": "Drink 9 ml of cold water to rehydrate.",
+    "duration_minutes": 2,
+    "tags": [
+      "health",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Water Break (Level 5)",
+    "description": "Drink 11 ml of cold water to rehydrate.",
+    "duration_minutes": 3,
+    "tags": [
+      "health",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Water Break (Level 6)",
+    "description": "Drink 13 ml of cold water to rehydrate.",
+    "duration_minutes": 1,
+    "tags": [
+      "health",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Water Break (Level 7)",
+    "description": "Drink 15 ml of cold water to rehydrate.",
+    "duration_minutes": 2,
+    "tags": [
+      "health",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Water Break (Level 8)",
+    "description": "Drink 17 ml of cold water to rehydrate.",
+    "duration_minutes": 3,
+    "tags": [
+      "health",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Water Break (Level 9)",
+    "description": "Drink 19 ml of cold water to rehydrate.",
+    "duration_minutes": 1,
+    "tags": [
+      "health",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Water Break (Level 10)",
+    "description": "Drink 21 ml of cold water to rehydrate.",
+    "duration_minutes": 2,
+    "tags": [
+      "health",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Water Break (Level 11)",
+    "description": "Drink 23 ml of cold water to rehydrate.",
+    "duration_minutes": 3,
+    "tags": [
+      "health",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Water Break (Level 12)",
+    "description": "Drink 25 ml of cold water to rehydrate.",
+    "duration_minutes": 1,
+    "tags": [
+      "health",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Water Break (Level 13)",
+    "description": "Drink 27 ml of cold water to rehydrate.",
+    "duration_minutes": 2,
+    "tags": [
+      "health",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Water Break (Level 14)",
+    "description": "Drink 29 ml of cold water to rehydrate.",
+    "duration_minutes": 3,
+    "tags": [
+      "health",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Water Break (Level 15)",
+    "description": "Drink 31 ml of cold water to rehydrate.",
+    "duration_minutes": 1,
+    "tags": [
+      "health",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Water Break (Level 16)",
+    "description": "Drink 33 ml of cold water to rehydrate.",
+    "duration_minutes": 2,
+    "tags": [
+      "health",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Water Break (Level 17)",
+    "description": "Drink 35 ml of cold water to rehydrate.",
+    "duration_minutes": 3,
+    "tags": [
+      "health",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Water Break (Level 18)",
+    "description": "Drink 37 ml of cold water to rehydrate.",
+    "duration_minutes": 1,
+    "tags": [
+      "health",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Water Break (Level 19)",
+    "description": "Drink 39 ml of cold water to rehydrate.",
+    "duration_minutes": 2,
+    "tags": [
+      "health",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Jumping Jacks (Level 1)",
+    "description": "Do 3 jumping jacks to get blood flowing.",
+    "duration_minutes": 3,
+    "tags": [
+      "movement",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Jumping Jacks (Level 2)",
+    "description": "Do 5 jumping jacks to get blood flowing.",
+    "duration_minutes": 4,
+    "tags": [
+      "movement",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Jumping Jacks (Level 3)",
+    "description": "Do 7 jumping jacks to get blood flowing.",
+    "duration_minutes": 2,
+    "tags": [
+      "movement",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Jumping Jacks (Level 4)",
+    "description": "Do 9 jumping jacks to get blood flowing.",
+    "duration_minutes": 3,
+    "tags": [
+      "movement",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Jumping Jacks (Level 5)",
+    "description": "Do 11 jumping jacks to get blood flowing.",
+    "duration_minutes": 4,
+    "tags": [
+      "movement",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Jumping Jacks (Level 6)",
+    "description": "Do 13 jumping jacks to get blood flowing.",
+    "duration_minutes": 2,
+    "tags": [
+      "movement",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Jumping Jacks (Level 7)",
+    "description": "Do 15 jumping jacks to get blood flowing.",
+    "duration_minutes": 3,
+    "tags": [
+      "movement",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Jumping Jacks (Level 8)",
+    "description": "Do 17 jumping jacks to get blood flowing.",
+    "duration_minutes": 4,
+    "tags": [
+      "movement",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Jumping Jacks (Level 9)",
+    "description": "Do 19 jumping jacks to get blood flowing.",
+    "duration_minutes": 2,
+    "tags": [
+      "movement",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Jumping Jacks (Level 10)",
+    "description": "Do 21 jumping jacks to get blood flowing.",
+    "duration_minutes": 3,
+    "tags": [
+      "movement",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Jumping Jacks (Level 11)",
+    "description": "Do 23 jumping jacks to get blood flowing.",
+    "duration_minutes": 4,
+    "tags": [
+      "movement",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Jumping Jacks (Level 12)",
+    "description": "Do 25 jumping jacks to get blood flowing.",
+    "duration_minutes": 2,
+    "tags": [
+      "movement",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Jumping Jacks (Level 13)",
+    "description": "Do 27 jumping jacks to get blood flowing.",
+    "duration_minutes": 3,
+    "tags": [
+      "movement",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Jumping Jacks (Level 14)",
+    "description": "Do 29 jumping jacks to get blood flowing.",
+    "duration_minutes": 4,
+    "tags": [
+      "movement",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Jumping Jacks (Level 15)",
+    "description": "Do 31 jumping jacks to get blood flowing.",
+    "duration_minutes": 2,
+    "tags": [
+      "movement",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Jumping Jacks (Level 16)",
+    "description": "Do 33 jumping jacks to get blood flowing.",
+    "duration_minutes": 3,
+    "tags": [
+      "movement",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Jumping Jacks (Level 17)",
+    "description": "Do 35 jumping jacks to get blood flowing.",
+    "duration_minutes": 4,
+    "tags": [
+      "movement",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Jumping Jacks (Level 18)",
+    "description": "Do 37 jumping jacks to get blood flowing.",
+    "duration_minutes": 2,
+    "tags": [
+      "movement",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Jumping Jacks (Level 19)",
+    "description": "Do 39 jumping jacks to get blood flowing.",
+    "duration_minutes": 3,
+    "tags": [
+      "movement",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Eye Rest (Level 1)",
+    "description": "Close your eyes and cover them with your palms for 3 seconds.",
+    "duration_minutes": 2,
+    "tags": [
+      "health",
+      "eyes",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Eye Rest (Level 2)",
+    "description": "Close your eyes and cover them with your palms for 5 seconds.",
+    "duration_minutes": 3,
+    "tags": [
+      "health",
+      "eyes",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Eye Rest (Level 3)",
+    "description": "Close your eyes and cover them with your palms for 7 seconds.",
+    "duration_minutes": 1,
+    "tags": [
+      "health",
+      "eyes",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Eye Rest (Level 4)",
+    "description": "Close your eyes and cover them with your palms for 9 seconds.",
+    "duration_minutes": 2,
+    "tags": [
+      "health",
+      "eyes",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Eye Rest (Level 5)",
+    "description": "Close your eyes and cover them with your palms for 11 seconds.",
+    "duration_minutes": 3,
+    "tags": [
+      "health",
+      "eyes",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Eye Rest (Level 6)",
+    "description": "Close your eyes and cover them with your palms for 13 seconds.",
+    "duration_minutes": 1,
+    "tags": [
+      "health",
+      "eyes",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Eye Rest (Level 7)",
+    "description": "Close your eyes and cover them with your palms for 15 seconds.",
+    "duration_minutes": 2,
+    "tags": [
+      "health",
+      "eyes",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Eye Rest (Level 8)",
+    "description": "Close your eyes and cover them with your palms for 17 seconds.",
+    "duration_minutes": 3,
+    "tags": [
+      "health",
+      "eyes",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Eye Rest (Level 9)",
+    "description": "Close your eyes and cover them with your palms for 19 seconds.",
+    "duration_minutes": 1,
+    "tags": [
+      "health",
+      "eyes",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Eye Rest (Level 10)",
+    "description": "Close your eyes and cover them with your palms for 21 seconds.",
+    "duration_minutes": 2,
+    "tags": [
+      "health",
+      "eyes",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Eye Rest (Level 11)",
+    "description": "Close your eyes and cover them with your palms for 23 seconds.",
+    "duration_minutes": 3,
+    "tags": [
+      "health",
+      "eyes",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Eye Rest (Level 12)",
+    "description": "Close your eyes and cover them with your palms for 25 seconds.",
+    "duration_minutes": 1,
+    "tags": [
+      "health",
+      "eyes",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Eye Rest (Level 13)",
+    "description": "Close your eyes and cover them with your palms for 27 seconds.",
+    "duration_minutes": 2,
+    "tags": [
+      "health",
+      "eyes",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Eye Rest (Level 14)",
+    "description": "Close your eyes and cover them with your palms for 29 seconds.",
+    "duration_minutes": 3,
+    "tags": [
+      "health",
+      "eyes",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Eye Rest (Level 15)",
+    "description": "Close your eyes and cover them with your palms for 31 seconds.",
+    "duration_minutes": 1,
+    "tags": [
+      "health",
+      "eyes",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Eye Rest (Level 16)",
+    "description": "Close your eyes and cover them with your palms for 33 seconds.",
+    "duration_minutes": 2,
+    "tags": [
+      "health",
+      "eyes",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Eye Rest (Level 17)",
+    "description": "Close your eyes and cover them with your palms for 35 seconds.",
+    "duration_minutes": 3,
+    "tags": [
+      "health",
+      "eyes",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Eye Rest (Level 18)",
+    "description": "Close your eyes and cover them with your palms for 37 seconds.",
+    "duration_minutes": 1,
+    "tags": [
+      "health",
+      "eyes",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Eye Rest (Level 19)",
+    "description": "Close your eyes and cover them with your palms for 39 seconds.",
+    "duration_minutes": 2,
+    "tags": [
+      "health",
+      "eyes",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Fresh Air (Level 1)",
+    "description": "Step outside or open a window for 3 minutes.",
+    "duration_minutes": 4,
+    "tags": [
+      "nature",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Fresh Air (Level 2)",
+    "description": "Step outside or open a window for 5 minutes.",
+    "duration_minutes": 5,
+    "tags": [
+      "nature",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Fresh Air (Level 3)",
+    "description": "Step outside or open a window for 7 minutes.",
+    "duration_minutes": 3,
+    "tags": [
+      "nature",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Fresh Air (Level 4)",
+    "description": "Step outside or open a window for 9 minutes.",
+    "duration_minutes": 4,
+    "tags": [
+      "nature",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Fresh Air (Level 5)",
+    "description": "Step outside or open a window for 11 minutes.",
+    "duration_minutes": 5,
+    "tags": [
+      "nature",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Fresh Air (Level 6)",
+    "description": "Step outside or open a window for 13 minutes.",
+    "duration_minutes": 3,
+    "tags": [
+      "nature",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Fresh Air (Level 7)",
+    "description": "Step outside or open a window for 15 minutes.",
+    "duration_minutes": 4,
+    "tags": [
+      "nature",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Fresh Air (Level 8)",
+    "description": "Step outside or open a window for 17 minutes.",
+    "duration_minutes": 5,
+    "tags": [
+      "nature",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Fresh Air (Level 9)",
+    "description": "Step outside or open a window for 19 minutes.",
+    "duration_minutes": 3,
+    "tags": [
+      "nature",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Fresh Air (Level 10)",
+    "description": "Step outside or open a window for 21 minutes.",
+    "duration_minutes": 4,
+    "tags": [
+      "nature",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Fresh Air (Level 11)",
+    "description": "Step outside or open a window for 23 minutes.",
+    "duration_minutes": 5,
+    "tags": [
+      "nature",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Fresh Air (Level 12)",
+    "description": "Step outside or open a window for 25 minutes.",
+    "duration_minutes": 3,
+    "tags": [
+      "nature",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Fresh Air (Level 13)",
+    "description": "Step outside or open a window for 27 minutes.",
+    "duration_minutes": 4,
+    "tags": [
+      "nature",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Fresh Air (Level 14)",
+    "description": "Step outside or open a window for 29 minutes.",
+    "duration_minutes": 5,
+    "tags": [
+      "nature",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Fresh Air (Level 15)",
+    "description": "Step outside or open a window for 31 minutes.",
+    "duration_minutes": 3,
+    "tags": [
+      "nature",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Fresh Air (Level 16)",
+    "description": "Step outside or open a window for 33 minutes.",
+    "duration_minutes": 4,
+    "tags": [
+      "nature",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Fresh Air (Level 17)",
+    "description": "Step outside or open a window for 35 minutes.",
+    "duration_minutes": 5,
+    "tags": [
+      "nature",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Fresh Air (Level 18)",
+    "description": "Step outside or open a window for 37 minutes.",
+    "duration_minutes": 3,
+    "tags": [
+      "nature",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Tired",
+    "action": "Fresh Air (Level 19)",
+    "description": "Step outside or open a window for 39 minutes.",
+    "duration_minutes": 4,
+    "tags": [
+      "nature",
+      "energy",
+      "tired"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Gratitude List (Level 1)",
+    "description": "List 3 small things you are grateful for right now.",
+    "duration_minutes": 4,
+    "tags": [
+      "journaling",
+      "positivity",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Gratitude List (Level 2)",
+    "description": "List 5 small things you are grateful for right now.",
+    "duration_minutes": 5,
+    "tags": [
+      "journaling",
+      "positivity",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Gratitude List (Level 3)",
+    "description": "List 7 small things you are grateful for right now.",
+    "duration_minutes": 3,
+    "tags": [
+      "journaling",
+      "positivity",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Gratitude List (Level 4)",
+    "description": "List 9 small things you are grateful for right now.",
+    "duration_minutes": 4,
+    "tags": [
+      "journaling",
+      "positivity",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Gratitude List (Level 5)",
+    "description": "List 11 small things you are grateful for right now.",
+    "duration_minutes": 5,
+    "tags": [
+      "journaling",
+      "positivity",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Gratitude List (Level 6)",
+    "description": "List 13 small things you are grateful for right now.",
+    "duration_minutes": 3,
+    "tags": [
+      "journaling",
+      "positivity",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Gratitude List (Level 7)",
+    "description": "List 15 small things you are grateful for right now.",
+    "duration_minutes": 4,
+    "tags": [
+      "journaling",
+      "positivity",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Gratitude List (Level 8)",
+    "description": "List 17 small things you are grateful for right now.",
+    "duration_minutes": 5,
+    "tags": [
+      "journaling",
+      "positivity",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Gratitude List (Level 9)",
+    "description": "List 19 small things you are grateful for right now.",
+    "duration_minutes": 3,
+    "tags": [
+      "journaling",
+      "positivity",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Gratitude List (Level 10)",
+    "description": "List 21 small things you are grateful for right now.",
+    "duration_minutes": 4,
+    "tags": [
+      "journaling",
+      "positivity",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Gratitude List (Level 11)",
+    "description": "List 23 small things you are grateful for right now.",
+    "duration_minutes": 5,
+    "tags": [
+      "journaling",
+      "positivity",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Gratitude List (Level 12)",
+    "description": "List 25 small things you are grateful for right now.",
+    "duration_minutes": 3,
+    "tags": [
+      "journaling",
+      "positivity",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Gratitude List (Level 13)",
+    "description": "List 27 small things you are grateful for right now.",
+    "duration_minutes": 4,
+    "tags": [
+      "journaling",
+      "positivity",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Gratitude List (Level 14)",
+    "description": "List 29 small things you are grateful for right now.",
+    "duration_minutes": 5,
+    "tags": [
+      "journaling",
+      "positivity",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Gratitude List (Level 15)",
+    "description": "List 31 small things you are grateful for right now.",
+    "duration_minutes": 3,
+    "tags": [
+      "journaling",
+      "positivity",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Gratitude List (Level 16)",
+    "description": "List 33 small things you are grateful for right now.",
+    "duration_minutes": 4,
+    "tags": [
+      "journaling",
+      "positivity",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Gratitude List (Level 17)",
+    "description": "List 35 small things you are grateful for right now.",
+    "duration_minutes": 5,
+    "tags": [
+      "journaling",
+      "positivity",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Gratitude List (Level 18)",
+    "description": "List 37 small things you are grateful for right now.",
+    "duration_minutes": 3,
+    "tags": [
+      "journaling",
+      "positivity",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Gratitude List (Level 19)",
+    "description": "List 39 small things you are grateful for right now.",
+    "duration_minutes": 4,
+    "tags": [
+      "journaling",
+      "positivity",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Comfort Song (Level 1)",
+    "description": "Listen to your favorite song 'Don't Stop Believin'' (or similar).",
+    "duration_minutes": 5,
+    "tags": [
+      "music",
+      "mood",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Comfort Song (Level 2)",
+    "description": "Listen to your favorite song 'Don't Stop Believin'' (or similar).",
+    "duration_minutes": 6,
+    "tags": [
+      "music",
+      "mood",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Comfort Song (Level 3)",
+    "description": "Listen to your favorite song 'Roar' (or similar).",
+    "duration_minutes": 4,
+    "tags": [
+      "music",
+      "mood",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Comfort Song (Level 4)",
+    "description": "Listen to your favorite song 'Roar' (or similar).",
+    "duration_minutes": 5,
+    "tags": [
+      "music",
+      "mood",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Comfort Song (Level 5)",
+    "description": "Listen to your favorite song 'Roar' (or similar).",
+    "duration_minutes": 6,
+    "tags": [
+      "music",
+      "mood",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Comfort Song (Level 6)",
+    "description": "Listen to your favorite song 'Don't Stop Believin'' (or similar).",
+    "duration_minutes": 4,
+    "tags": [
+      "music",
+      "mood",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Comfort Song (Level 7)",
+    "description": "Listen to your favorite song 'Three Little Birds' (or similar).",
+    "duration_minutes": 5,
+    "tags": [
+      "music",
+      "mood",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Comfort Song (Level 8)",
+    "description": "Listen to your favorite song 'Three Little Birds' (or similar).",
+    "duration_minutes": 6,
+    "tags": [
+      "music",
+      "mood",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Comfort Song (Level 9)",
+    "description": "Listen to your favorite song 'Roar' (or similar).",
+    "duration_minutes": 4,
+    "tags": [
+      "music",
+      "mood",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Comfort Song (Level 10)",
+    "description": "Listen to your favorite song 'Roar' (or similar).",
+    "duration_minutes": 5,
+    "tags": [
+      "music",
+      "mood",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Comfort Song (Level 11)",
+    "description": "Listen to your favorite song 'Don't Stop Believin'' (or similar).",
+    "duration_minutes": 6,
+    "tags": [
+      "music",
+      "mood",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Comfort Song (Level 12)",
+    "description": "Listen to your favorite song 'Don't Stop Believin'' (or similar).",
+    "duration_minutes": 4,
+    "tags": [
+      "music",
+      "mood",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Comfort Song (Level 13)",
+    "description": "Listen to your favorite song 'Roar' (or similar).",
+    "duration_minutes": 5,
+    "tags": [
+      "music",
+      "mood",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Comfort Song (Level 14)",
+    "description": "Listen to your favorite song 'Don't Stop Believin'' (or similar).",
+    "duration_minutes": 6,
+    "tags": [
+      "music",
+      "mood",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Comfort Song (Level 15)",
+    "description": "Listen to your favorite song 'Three Little Birds' (or similar).",
+    "duration_minutes": 4,
+    "tags": [
+      "music",
+      "mood",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Comfort Song (Level 16)",
+    "description": "Listen to your favorite song 'Happy' (or similar).",
+    "duration_minutes": 5,
+    "tags": [
+      "music",
+      "mood",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Comfort Song (Level 17)",
+    "description": "Listen to your favorite song 'Don't Stop Believin'' (or similar).",
+    "duration_minutes": 6,
+    "tags": [
+      "music",
+      "mood",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Comfort Song (Level 18)",
+    "description": "Listen to your favorite song 'Three Little Birds' (or similar).",
+    "duration_minutes": 4,
+    "tags": [
+      "music",
+      "mood",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Comfort Song (Level 19)",
+    "description": "Listen to your favorite song 'Happy' (or similar).",
+    "duration_minutes": 5,
+    "tags": [
+      "music",
+      "mood",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Kind Text (Level 1)",
+    "description": "Send a kind message to a family member.",
+    "duration_minutes": 3,
+    "tags": [
+      "social",
+      "connection",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Kind Text (Level 2)",
+    "description": "Send a kind message to a family member.",
+    "duration_minutes": 4,
+    "tags": [
+      "social",
+      "connection",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Kind Text (Level 3)",
+    "description": "Send a kind message to a family member.",
+    "duration_minutes": 2,
+    "tags": [
+      "social",
+      "connection",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Kind Text (Level 4)",
+    "description": "Send a kind message to a family member.",
+    "duration_minutes": 3,
+    "tags": [
+      "social",
+      "connection",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Kind Text (Level 5)",
+    "description": "Send a kind message to a colleague.",
+    "duration_minutes": 4,
+    "tags": [
+      "social",
+      "connection",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Kind Text (Level 6)",
+    "description": "Send a kind message to a friend.",
+    "duration_minutes": 2,
+    "tags": [
+      "social",
+      "connection",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Kind Text (Level 7)",
+    "description": "Send a kind message to a colleague.",
+    "duration_minutes": 3,
+    "tags": [
+      "social",
+      "connection",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Kind Text (Level 8)",
+    "description": "Send a kind message to your partner.",
+    "duration_minutes": 4,
+    "tags": [
+      "social",
+      "connection",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Kind Text (Level 9)",
+    "description": "Send a kind message to a family member.",
+    "duration_minutes": 2,
+    "tags": [
+      "social",
+      "connection",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Kind Text (Level 10)",
+    "description": "Send a kind message to a family member.",
+    "duration_minutes": 3,
+    "tags": [
+      "social",
+      "connection",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Kind Text (Level 11)",
+    "description": "Send a kind message to a colleague.",
+    "duration_minutes": 4,
+    "tags": [
+      "social",
+      "connection",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Kind Text (Level 12)",
+    "description": "Send a kind message to your partner.",
+    "duration_minutes": 2,
+    "tags": [
+      "social",
+      "connection",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Kind Text (Level 13)",
+    "description": "Send a kind message to a colleague.",
+    "duration_minutes": 3,
+    "tags": [
+      "social",
+      "connection",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Kind Text (Level 14)",
+    "description": "Send a kind message to your partner.",
+    "duration_minutes": 4,
+    "tags": [
+      "social",
+      "connection",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Kind Text (Level 15)",
+    "description": "Send a kind message to a colleague.",
+    "duration_minutes": 2,
+    "tags": [
+      "social",
+      "connection",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Kind Text (Level 16)",
+    "description": "Send a kind message to a friend.",
+    "duration_minutes": 3,
+    "tags": [
+      "social",
+      "connection",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Kind Text (Level 17)",
+    "description": "Send a kind message to your partner.",
+    "duration_minutes": 4,
+    "tags": [
+      "social",
+      "connection",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Kind Text (Level 18)",
+    "description": "Send a kind message to your partner.",
+    "duration_minutes": 2,
+    "tags": [
+      "social",
+      "connection",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Kind Text (Level 19)",
+    "description": "Send a kind message to a family member.",
+    "duration_minutes": 3,
+    "tags": [
+      "social",
+      "connection",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Texture Feel (Level 1)",
+    "description": "Touch a soft blanket or fabric for 3 minutes.",
+    "duration_minutes": 3,
+    "tags": [
+      "sensory",
+      "comfort",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Texture Feel (Level 2)",
+    "description": "Touch a soft blanket or fabric for 5 minutes.",
+    "duration_minutes": 4,
+    "tags": [
+      "sensory",
+      "comfort",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Texture Feel (Level 3)",
+    "description": "Touch a soft blanket or fabric for 7 minutes.",
+    "duration_minutes": 2,
+    "tags": [
+      "sensory",
+      "comfort",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Texture Feel (Level 4)",
+    "description": "Touch a soft blanket or fabric for 9 minutes.",
+    "duration_minutes": 3,
+    "tags": [
+      "sensory",
+      "comfort",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Texture Feel (Level 5)",
+    "description": "Touch a soft blanket or fabric for 11 minutes.",
+    "duration_minutes": 4,
+    "tags": [
+      "sensory",
+      "comfort",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Texture Feel (Level 6)",
+    "description": "Touch a soft blanket or fabric for 13 minutes.",
+    "duration_minutes": 2,
+    "tags": [
+      "sensory",
+      "comfort",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Texture Feel (Level 7)",
+    "description": "Touch a soft blanket or fabric for 15 minutes.",
+    "duration_minutes": 3,
+    "tags": [
+      "sensory",
+      "comfort",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Texture Feel (Level 8)",
+    "description": "Touch a soft blanket or fabric for 17 minutes.",
+    "duration_minutes": 4,
+    "tags": [
+      "sensory",
+      "comfort",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Texture Feel (Level 9)",
+    "description": "Touch a soft blanket or fabric for 19 minutes.",
+    "duration_minutes": 2,
+    "tags": [
+      "sensory",
+      "comfort",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Texture Feel (Level 10)",
+    "description": "Touch a soft blanket or fabric for 21 minutes.",
+    "duration_minutes": 3,
+    "tags": [
+      "sensory",
+      "comfort",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Texture Feel (Level 11)",
+    "description": "Touch a soft blanket or fabric for 23 minutes.",
+    "duration_minutes": 4,
+    "tags": [
+      "sensory",
+      "comfort",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Texture Feel (Level 12)",
+    "description": "Touch a soft blanket or fabric for 25 minutes.",
+    "duration_minutes": 2,
+    "tags": [
+      "sensory",
+      "comfort",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Texture Feel (Level 13)",
+    "description": "Touch a soft blanket or fabric for 27 minutes.",
+    "duration_minutes": 3,
+    "tags": [
+      "sensory",
+      "comfort",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Texture Feel (Level 14)",
+    "description": "Touch a soft blanket or fabric for 29 minutes.",
+    "duration_minutes": 4,
+    "tags": [
+      "sensory",
+      "comfort",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Texture Feel (Level 15)",
+    "description": "Touch a soft blanket or fabric for 31 minutes.",
+    "duration_minutes": 2,
+    "tags": [
+      "sensory",
+      "comfort",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Texture Feel (Level 16)",
+    "description": "Touch a soft blanket or fabric for 33 minutes.",
+    "duration_minutes": 3,
+    "tags": [
+      "sensory",
+      "comfort",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Texture Feel (Level 17)",
+    "description": "Touch a soft blanket or fabric for 35 minutes.",
+    "duration_minutes": 4,
+    "tags": [
+      "sensory",
+      "comfort",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Texture Feel (Level 18)",
+    "description": "Touch a soft blanket or fabric for 37 minutes.",
+    "duration_minutes": 2,
+    "tags": [
+      "sensory",
+      "comfort",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Sad",
+    "action": "Texture Feel (Level 19)",
+    "description": "Touch a soft blanket or fabric for 39 minutes.",
+    "duration_minutes": 3,
+    "tags": [
+      "sensory",
+      "comfort",
+      "sad"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Brain Dump (Level 1)",
+    "description": "Write down 3 thoughts swirling in your head.",
+    "duration_minutes": 6,
+    "tags": [
+      "writing",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Brain Dump (Level 2)",
+    "description": "Write down 5 thoughts swirling in your head.",
+    "duration_minutes": 7,
+    "tags": [
+      "writing",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Brain Dump (Level 3)",
+    "description": "Write down 7 thoughts swirling in your head.",
+    "duration_minutes": 5,
+    "tags": [
+      "writing",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Brain Dump (Level 4)",
+    "description": "Write down 9 thoughts swirling in your head.",
+    "duration_minutes": 6,
+    "tags": [
+      "writing",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Brain Dump (Level 5)",
+    "description": "Write down 11 thoughts swirling in your head.",
+    "duration_minutes": 7,
+    "tags": [
+      "writing",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Brain Dump (Level 6)",
+    "description": "Write down 13 thoughts swirling in your head.",
+    "duration_minutes": 5,
+    "tags": [
+      "writing",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Brain Dump (Level 7)",
+    "description": "Write down 15 thoughts swirling in your head.",
+    "duration_minutes": 6,
+    "tags": [
+      "writing",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Brain Dump (Level 8)",
+    "description": "Write down 17 thoughts swirling in your head.",
+    "duration_minutes": 7,
+    "tags": [
+      "writing",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Brain Dump (Level 9)",
+    "description": "Write down 19 thoughts swirling in your head.",
+    "duration_minutes": 5,
+    "tags": [
+      "writing",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Brain Dump (Level 10)",
+    "description": "Write down 21 thoughts swirling in your head.",
+    "duration_minutes": 6,
+    "tags": [
+      "writing",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Brain Dump (Level 11)",
+    "description": "Write down 23 thoughts swirling in your head.",
+    "duration_minutes": 7,
+    "tags": [
+      "writing",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Brain Dump (Level 12)",
+    "description": "Write down 25 thoughts swirling in your head.",
+    "duration_minutes": 5,
+    "tags": [
+      "writing",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Brain Dump (Level 13)",
+    "description": "Write down 27 thoughts swirling in your head.",
+    "duration_minutes": 6,
+    "tags": [
+      "writing",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Brain Dump (Level 14)",
+    "description": "Write down 29 thoughts swirling in your head.",
+    "duration_minutes": 7,
+    "tags": [
+      "writing",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Brain Dump (Level 15)",
+    "description": "Write down 31 thoughts swirling in your head.",
+    "duration_minutes": 5,
+    "tags": [
+      "writing",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Brain Dump (Level 16)",
+    "description": "Write down 33 thoughts swirling in your head.",
+    "duration_minutes": 6,
+    "tags": [
+      "writing",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Brain Dump (Level 17)",
+    "description": "Write down 35 thoughts swirling in your head.",
+    "duration_minutes": 7,
+    "tags": [
+      "writing",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Brain Dump (Level 18)",
+    "description": "Write down 37 thoughts swirling in your head.",
+    "duration_minutes": 5,
+    "tags": [
+      "writing",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Brain Dump (Level 19)",
+    "description": "Write down 39 thoughts swirling in your head.",
+    "duration_minutes": 6,
+    "tags": [
+      "writing",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Prioritize (Level 1)",
+    "description": "Pick the top 3 most important tasks and ignore the rest.",
+    "duration_minutes": 4,
+    "tags": [
+      "planning",
+      "focus",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Prioritize (Level 2)",
+    "description": "Pick the top 5 most important tasks and ignore the rest.",
+    "duration_minutes": 5,
+    "tags": [
+      "planning",
+      "focus",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Prioritize (Level 3)",
+    "description": "Pick the top 7 most important tasks and ignore the rest.",
+    "duration_minutes": 3,
+    "tags": [
+      "planning",
+      "focus",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Prioritize (Level 4)",
+    "description": "Pick the top 9 most important tasks and ignore the rest.",
+    "duration_minutes": 4,
+    "tags": [
+      "planning",
+      "focus",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Prioritize (Level 5)",
+    "description": "Pick the top 11 most important tasks and ignore the rest.",
+    "duration_minutes": 5,
+    "tags": [
+      "planning",
+      "focus",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Prioritize (Level 6)",
+    "description": "Pick the top 13 most important tasks and ignore the rest.",
+    "duration_minutes": 3,
+    "tags": [
+      "planning",
+      "focus",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Prioritize (Level 7)",
+    "description": "Pick the top 15 most important tasks and ignore the rest.",
+    "duration_minutes": 4,
+    "tags": [
+      "planning",
+      "focus",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Prioritize (Level 8)",
+    "description": "Pick the top 17 most important tasks and ignore the rest.",
+    "duration_minutes": 5,
+    "tags": [
+      "planning",
+      "focus",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Prioritize (Level 9)",
+    "description": "Pick the top 19 most important tasks and ignore the rest.",
+    "duration_minutes": 3,
+    "tags": [
+      "planning",
+      "focus",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Prioritize (Level 10)",
+    "description": "Pick the top 21 most important tasks and ignore the rest.",
+    "duration_minutes": 4,
+    "tags": [
+      "planning",
+      "focus",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Prioritize (Level 11)",
+    "description": "Pick the top 23 most important tasks and ignore the rest.",
+    "duration_minutes": 5,
+    "tags": [
+      "planning",
+      "focus",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Prioritize (Level 12)",
+    "description": "Pick the top 25 most important tasks and ignore the rest.",
+    "duration_minutes": 3,
+    "tags": [
+      "planning",
+      "focus",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Prioritize (Level 13)",
+    "description": "Pick the top 27 most important tasks and ignore the rest.",
+    "duration_minutes": 4,
+    "tags": [
+      "planning",
+      "focus",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Prioritize (Level 14)",
+    "description": "Pick the top 29 most important tasks and ignore the rest.",
+    "duration_minutes": 5,
+    "tags": [
+      "planning",
+      "focus",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Prioritize (Level 15)",
+    "description": "Pick the top 31 most important tasks and ignore the rest.",
+    "duration_minutes": 3,
+    "tags": [
+      "planning",
+      "focus",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Prioritize (Level 16)",
+    "description": "Pick the top 33 most important tasks and ignore the rest.",
+    "duration_minutes": 4,
+    "tags": [
+      "planning",
+      "focus",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Prioritize (Level 17)",
+    "description": "Pick the top 35 most important tasks and ignore the rest.",
+    "duration_minutes": 5,
+    "tags": [
+      "planning",
+      "focus",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Prioritize (Level 18)",
+    "description": "Pick the top 37 most important tasks and ignore the rest.",
+    "duration_minutes": 3,
+    "tags": [
+      "planning",
+      "focus",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Prioritize (Level 19)",
+    "description": "Pick the top 39 most important tasks and ignore the rest.",
+    "duration_minutes": 4,
+    "tags": [
+      "planning",
+      "focus",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Walk & Think (Level 1)",
+    "description": "Take a 3 minute walk to clear your thoughts.",
+    "duration_minutes": 11,
+    "tags": [
+      "movement",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Walk & Think (Level 2)",
+    "description": "Take a 5 minute walk to clear your thoughts.",
+    "duration_minutes": 12,
+    "tags": [
+      "movement",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Walk & Think (Level 3)",
+    "description": "Take a 7 minute walk to clear your thoughts.",
+    "duration_minutes": 10,
+    "tags": [
+      "movement",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Walk & Think (Level 4)",
+    "description": "Take a 9 minute walk to clear your thoughts.",
+    "duration_minutes": 11,
+    "tags": [
+      "movement",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Walk & Think (Level 5)",
+    "description": "Take a 11 minute walk to clear your thoughts.",
+    "duration_minutes": 12,
+    "tags": [
+      "movement",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Walk & Think (Level 6)",
+    "description": "Take a 13 minute walk to clear your thoughts.",
+    "duration_minutes": 10,
+    "tags": [
+      "movement",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Walk & Think (Level 7)",
+    "description": "Take a 15 minute walk to clear your thoughts.",
+    "duration_minutes": 11,
+    "tags": [
+      "movement",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Walk & Think (Level 8)",
+    "description": "Take a 17 minute walk to clear your thoughts.",
+    "duration_minutes": 12,
+    "tags": [
+      "movement",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Walk & Think (Level 9)",
+    "description": "Take a 19 minute walk to clear your thoughts.",
+    "duration_minutes": 10,
+    "tags": [
+      "movement",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Walk & Think (Level 10)",
+    "description": "Take a 21 minute walk to clear your thoughts.",
+    "duration_minutes": 11,
+    "tags": [
+      "movement",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Walk & Think (Level 11)",
+    "description": "Take a 23 minute walk to clear your thoughts.",
+    "duration_minutes": 12,
+    "tags": [
+      "movement",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Walk & Think (Level 12)",
+    "description": "Take a 25 minute walk to clear your thoughts.",
+    "duration_minutes": 10,
+    "tags": [
+      "movement",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Walk & Think (Level 13)",
+    "description": "Take a 27 minute walk to clear your thoughts.",
+    "duration_minutes": 11,
+    "tags": [
+      "movement",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Walk & Think (Level 14)",
+    "description": "Take a 29 minute walk to clear your thoughts.",
+    "duration_minutes": 12,
+    "tags": [
+      "movement",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Walk & Think (Level 15)",
+    "description": "Take a 31 minute walk to clear your thoughts.",
+    "duration_minutes": 10,
+    "tags": [
+      "movement",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Walk & Think (Level 16)",
+    "description": "Take a 33 minute walk to clear your thoughts.",
+    "duration_minutes": 11,
+    "tags": [
+      "movement",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Walk & Think (Level 17)",
+    "description": "Take a 35 minute walk to clear your thoughts.",
+    "duration_minutes": 12,
+    "tags": [
+      "movement",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Walk & Think (Level 18)",
+    "description": "Take a 37 minute walk to clear your thoughts.",
+    "duration_minutes": 10,
+    "tags": [
+      "movement",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Confused",
+    "action": "Walk & Think (Level 19)",
+    "description": "Take a 39 minute walk to clear your thoughts.",
+    "duration_minutes": 11,
+    "tags": [
+      "movement",
+      "clarity",
+      "confused"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Savoring (Level 1)",
+    "description": "Spend 3 minutes writing about why you feel good.",
+    "duration_minutes": 4,
+    "tags": [
+      "journaling",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Savoring (Level 2)",
+    "description": "Spend 5 minutes writing about why you feel good.",
+    "duration_minutes": 5,
+    "tags": [
+      "journaling",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Savoring (Level 3)",
+    "description": "Spend 7 minutes writing about why you feel good.",
+    "duration_minutes": 3,
+    "tags": [
+      "journaling",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Savoring (Level 4)",
+    "description": "Spend 9 minutes writing about why you feel good.",
+    "duration_minutes": 4,
+    "tags": [
+      "journaling",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Savoring (Level 5)",
+    "description": "Spend 11 minutes writing about why you feel good.",
+    "duration_minutes": 5,
+    "tags": [
+      "journaling",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Savoring (Level 6)",
+    "description": "Spend 13 minutes writing about why you feel good.",
+    "duration_minutes": 3,
+    "tags": [
+      "journaling",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Savoring (Level 7)",
+    "description": "Spend 15 minutes writing about why you feel good.",
+    "duration_minutes": 4,
+    "tags": [
+      "journaling",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Savoring (Level 8)",
+    "description": "Spend 17 minutes writing about why you feel good.",
+    "duration_minutes": 5,
+    "tags": [
+      "journaling",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Savoring (Level 9)",
+    "description": "Spend 19 minutes writing about why you feel good.",
+    "duration_minutes": 3,
+    "tags": [
+      "journaling",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Savoring (Level 10)",
+    "description": "Spend 21 minutes writing about why you feel good.",
+    "duration_minutes": 4,
+    "tags": [
+      "journaling",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Savoring (Level 11)",
+    "description": "Spend 23 minutes writing about why you feel good.",
+    "duration_minutes": 5,
+    "tags": [
+      "journaling",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Savoring (Level 12)",
+    "description": "Spend 25 minutes writing about why you feel good.",
+    "duration_minutes": 3,
+    "tags": [
+      "journaling",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Savoring (Level 13)",
+    "description": "Spend 27 minutes writing about why you feel good.",
+    "duration_minutes": 4,
+    "tags": [
+      "journaling",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Savoring (Level 14)",
+    "description": "Spend 29 minutes writing about why you feel good.",
+    "duration_minutes": 5,
+    "tags": [
+      "journaling",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Savoring (Level 15)",
+    "description": "Spend 31 minutes writing about why you feel good.",
+    "duration_minutes": 3,
+    "tags": [
+      "journaling",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Savoring (Level 16)",
+    "description": "Spend 33 minutes writing about why you feel good.",
+    "duration_minutes": 4,
+    "tags": [
+      "journaling",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Savoring (Level 17)",
+    "description": "Spend 35 minutes writing about why you feel good.",
+    "duration_minutes": 5,
+    "tags": [
+      "journaling",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Savoring (Level 18)",
+    "description": "Spend 37 minutes writing about why you feel good.",
+    "duration_minutes": 3,
+    "tags": [
+      "journaling",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Savoring (Level 19)",
+    "description": "Spend 39 minutes writing about why you feel good.",
+    "duration_minutes": 4,
+    "tags": [
+      "journaling",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Share Joy (Level 1)",
+    "description": "Tell 3 friends about your good news.",
+    "duration_minutes": 3,
+    "tags": [
+      "social",
+      "connection",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Share Joy (Level 2)",
+    "description": "Tell 5 friends about your good news.",
+    "duration_minutes": 4,
+    "tags": [
+      "social",
+      "connection",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Share Joy (Level 3)",
+    "description": "Tell 7 friends about your good news.",
+    "duration_minutes": 2,
+    "tags": [
+      "social",
+      "connection",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Share Joy (Level 4)",
+    "description": "Tell 9 friends about your good news.",
+    "duration_minutes": 3,
+    "tags": [
+      "social",
+      "connection",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Share Joy (Level 5)",
+    "description": "Tell 11 friends about your good news.",
+    "duration_minutes": 4,
+    "tags": [
+      "social",
+      "connection",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Share Joy (Level 6)",
+    "description": "Tell 13 friends about your good news.",
+    "duration_minutes": 2,
+    "tags": [
+      "social",
+      "connection",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Share Joy (Level 7)",
+    "description": "Tell 15 friends about your good news.",
+    "duration_minutes": 3,
+    "tags": [
+      "social",
+      "connection",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Share Joy (Level 8)",
+    "description": "Tell 17 friends about your good news.",
+    "duration_minutes": 4,
+    "tags": [
+      "social",
+      "connection",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Share Joy (Level 9)",
+    "description": "Tell 19 friends about your good news.",
+    "duration_minutes": 2,
+    "tags": [
+      "social",
+      "connection",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Share Joy (Level 10)",
+    "description": "Tell 21 friends about your good news.",
+    "duration_minutes": 3,
+    "tags": [
+      "social",
+      "connection",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Share Joy (Level 11)",
+    "description": "Tell 23 friends about your good news.",
+    "duration_minutes": 4,
+    "tags": [
+      "social",
+      "connection",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Share Joy (Level 12)",
+    "description": "Tell 25 friends about your good news.",
+    "duration_minutes": 2,
+    "tags": [
+      "social",
+      "connection",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Share Joy (Level 13)",
+    "description": "Tell 27 friends about your good news.",
+    "duration_minutes": 3,
+    "tags": [
+      "social",
+      "connection",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Share Joy (Level 14)",
+    "description": "Tell 29 friends about your good news.",
+    "duration_minutes": 4,
+    "tags": [
+      "social",
+      "connection",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Share Joy (Level 15)",
+    "description": "Tell 31 friends about your good news.",
+    "duration_minutes": 2,
+    "tags": [
+      "social",
+      "connection",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Share Joy (Level 16)",
+    "description": "Tell 33 friends about your good news.",
+    "duration_minutes": 3,
+    "tags": [
+      "social",
+      "connection",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Share Joy (Level 17)",
+    "description": "Tell 35 friends about your good news.",
+    "duration_minutes": 4,
+    "tags": [
+      "social",
+      "connection",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Share Joy (Level 18)",
+    "description": "Tell 37 friends about your good news.",
+    "duration_minutes": 2,
+    "tags": [
+      "social",
+      "connection",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Share Joy (Level 19)",
+    "description": "Tell 39 friends about your good news.",
+    "duration_minutes": 3,
+    "tags": [
+      "social",
+      "connection",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Photo Memory (Level 1)",
+    "description": "Look at 3 photos that bring you joy.",
+    "duration_minutes": 3,
+    "tags": [
+      "memory",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Photo Memory (Level 2)",
+    "description": "Look at 5 photos that bring you joy.",
+    "duration_minutes": 4,
+    "tags": [
+      "memory",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Photo Memory (Level 3)",
+    "description": "Look at 7 photos that bring you joy.",
+    "duration_minutes": 2,
+    "tags": [
+      "memory",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Photo Memory (Level 4)",
+    "description": "Look at 9 photos that bring you joy.",
+    "duration_minutes": 3,
+    "tags": [
+      "memory",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Photo Memory (Level 5)",
+    "description": "Look at 11 photos that bring you joy.",
+    "duration_minutes": 4,
+    "tags": [
+      "memory",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Photo Memory (Level 6)",
+    "description": "Look at 13 photos that bring you joy.",
+    "duration_minutes": 2,
+    "tags": [
+      "memory",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Photo Memory (Level 7)",
+    "description": "Look at 15 photos that bring you joy.",
+    "duration_minutes": 3,
+    "tags": [
+      "memory",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Photo Memory (Level 8)",
+    "description": "Look at 17 photos that bring you joy.",
+    "duration_minutes": 4,
+    "tags": [
+      "memory",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Photo Memory (Level 9)",
+    "description": "Look at 19 photos that bring you joy.",
+    "duration_minutes": 2,
+    "tags": [
+      "memory",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Photo Memory (Level 10)",
+    "description": "Look at 21 photos that bring you joy.",
+    "duration_minutes": 3,
+    "tags": [
+      "memory",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Photo Memory (Level 11)",
+    "description": "Look at 23 photos that bring you joy.",
+    "duration_minutes": 4,
+    "tags": [
+      "memory",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Photo Memory (Level 12)",
+    "description": "Look at 25 photos that bring you joy.",
+    "duration_minutes": 2,
+    "tags": [
+      "memory",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Photo Memory (Level 13)",
+    "description": "Look at 27 photos that bring you joy.",
+    "duration_minutes": 3,
+    "tags": [
+      "memory",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Photo Memory (Level 14)",
+    "description": "Look at 29 photos that bring you joy.",
+    "duration_minutes": 4,
+    "tags": [
+      "memory",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Photo Memory (Level 15)",
+    "description": "Look at 31 photos that bring you joy.",
+    "duration_minutes": 2,
+    "tags": [
+      "memory",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Photo Memory (Level 16)",
+    "description": "Look at 33 photos that bring you joy.",
+    "duration_minutes": 3,
+    "tags": [
+      "memory",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Photo Memory (Level 17)",
+    "description": "Look at 35 photos that bring you joy.",
+    "duration_minutes": 4,
+    "tags": [
+      "memory",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Photo Memory (Level 18)",
+    "description": "Look at 37 photos that bring you joy.",
+    "duration_minutes": 2,
+    "tags": [
+      "memory",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Photo Memory (Level 19)",
+    "description": "Look at 39 photos that bring you joy.",
+    "duration_minutes": 3,
+    "tags": [
+      "memory",
+      "joy",
+      "happy"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "5-4-3-2-1 (Level 1)",
+    "description": "Name 3 things you can see right now.",
+    "duration_minutes": 3,
+    "tags": [
+      "grounding",
+      "anxiety",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "5-4-3-2-1 (Level 2)",
+    "description": "Name 5 things you can see right now.",
+    "duration_minutes": 4,
+    "tags": [
+      "grounding",
+      "anxiety",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "5-4-3-2-1 (Level 3)",
+    "description": "Name 7 things you can see right now.",
+    "duration_minutes": 2,
+    "tags": [
+      "grounding",
+      "anxiety",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "5-4-3-2-1 (Level 4)",
+    "description": "Name 9 things you can see right now.",
+    "duration_minutes": 3,
+    "tags": [
+      "grounding",
+      "anxiety",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "5-4-3-2-1 (Level 5)",
+    "description": "Name 11 things you can see right now.",
+    "duration_minutes": 4,
+    "tags": [
+      "grounding",
+      "anxiety",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "5-4-3-2-1 (Level 6)",
+    "description": "Name 13 things you can see right now.",
+    "duration_minutes": 2,
+    "tags": [
+      "grounding",
+      "anxiety",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "5-4-3-2-1 (Level 7)",
+    "description": "Name 15 things you can see right now.",
+    "duration_minutes": 3,
+    "tags": [
+      "grounding",
+      "anxiety",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "5-4-3-2-1 (Level 8)",
+    "description": "Name 17 things you can see right now.",
+    "duration_minutes": 4,
+    "tags": [
+      "grounding",
+      "anxiety",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "5-4-3-2-1 (Level 9)",
+    "description": "Name 19 things you can see right now.",
+    "duration_minutes": 2,
+    "tags": [
+      "grounding",
+      "anxiety",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "5-4-3-2-1 (Level 10)",
+    "description": "Name 21 things you can see right now.",
+    "duration_minutes": 3,
+    "tags": [
+      "grounding",
+      "anxiety",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "5-4-3-2-1 (Level 11)",
+    "description": "Name 23 things you can see right now.",
+    "duration_minutes": 4,
+    "tags": [
+      "grounding",
+      "anxiety",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "5-4-3-2-1 (Level 12)",
+    "description": "Name 25 things you can see right now.",
+    "duration_minutes": 2,
+    "tags": [
+      "grounding",
+      "anxiety",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "5-4-3-2-1 (Level 13)",
+    "description": "Name 27 things you can see right now.",
+    "duration_minutes": 3,
+    "tags": [
+      "grounding",
+      "anxiety",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "5-4-3-2-1 (Level 14)",
+    "description": "Name 29 things you can see right now.",
+    "duration_minutes": 4,
+    "tags": [
+      "grounding",
+      "anxiety",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "5-4-3-2-1 (Level 15)",
+    "description": "Name 31 things you can see right now.",
+    "duration_minutes": 2,
+    "tags": [
+      "grounding",
+      "anxiety",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "5-4-3-2-1 (Level 16)",
+    "description": "Name 33 things you can see right now.",
+    "duration_minutes": 3,
+    "tags": [
+      "grounding",
+      "anxiety",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "5-4-3-2-1 (Level 17)",
+    "description": "Name 35 things you can see right now.",
+    "duration_minutes": 4,
+    "tags": [
+      "grounding",
+      "anxiety",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "5-4-3-2-1 (Level 18)",
+    "description": "Name 37 things you can see right now.",
+    "duration_minutes": 2,
+    "tags": [
+      "grounding",
+      "anxiety",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "5-4-3-2-1 (Level 19)",
+    "description": "Name 39 things you can see right now.",
+    "duration_minutes": 3,
+    "tags": [
+      "grounding",
+      "anxiety",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Cold Water (Level 1)",
+    "description": "Run cold water over your wrists for 3 seconds.",
+    "duration_minutes": 2,
+    "tags": [
+      "sensory",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Cold Water (Level 2)",
+    "description": "Run cold water over your wrists for 5 seconds.",
+    "duration_minutes": 3,
+    "tags": [
+      "sensory",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Cold Water (Level 3)",
+    "description": "Run cold water over your wrists for 7 seconds.",
+    "duration_minutes": 1,
+    "tags": [
+      "sensory",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Cold Water (Level 4)",
+    "description": "Run cold water over your wrists for 9 seconds.",
+    "duration_minutes": 2,
+    "tags": [
+      "sensory",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Cold Water (Level 5)",
+    "description": "Run cold water over your wrists for 11 seconds.",
+    "duration_minutes": 3,
+    "tags": [
+      "sensory",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Cold Water (Level 6)",
+    "description": "Run cold water over your wrists for 13 seconds.",
+    "duration_minutes": 1,
+    "tags": [
+      "sensory",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Cold Water (Level 7)",
+    "description": "Run cold water over your wrists for 15 seconds.",
+    "duration_minutes": 2,
+    "tags": [
+      "sensory",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Cold Water (Level 8)",
+    "description": "Run cold water over your wrists for 17 seconds.",
+    "duration_minutes": 3,
+    "tags": [
+      "sensory",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Cold Water (Level 9)",
+    "description": "Run cold water over your wrists for 19 seconds.",
+    "duration_minutes": 1,
+    "tags": [
+      "sensory",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Cold Water (Level 10)",
+    "description": "Run cold water over your wrists for 21 seconds.",
+    "duration_minutes": 2,
+    "tags": [
+      "sensory",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Cold Water (Level 11)",
+    "description": "Run cold water over your wrists for 23 seconds.",
+    "duration_minutes": 3,
+    "tags": [
+      "sensory",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Cold Water (Level 12)",
+    "description": "Run cold water over your wrists for 25 seconds.",
+    "duration_minutes": 1,
+    "tags": [
+      "sensory",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Cold Water (Level 13)",
+    "description": "Run cold water over your wrists for 27 seconds.",
+    "duration_minutes": 2,
+    "tags": [
+      "sensory",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Cold Water (Level 14)",
+    "description": "Run cold water over your wrists for 29 seconds.",
+    "duration_minutes": 3,
+    "tags": [
+      "sensory",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Cold Water (Level 15)",
+    "description": "Run cold water over your wrists for 31 seconds.",
+    "duration_minutes": 1,
+    "tags": [
+      "sensory",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Cold Water (Level 16)",
+    "description": "Run cold water over your wrists for 33 seconds.",
+    "duration_minutes": 2,
+    "tags": [
+      "sensory",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Cold Water (Level 17)",
+    "description": "Run cold water over your wrists for 35 seconds.",
+    "duration_minutes": 3,
+    "tags": [
+      "sensory",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Cold Water (Level 18)",
+    "description": "Run cold water over your wrists for 37 seconds.",
+    "duration_minutes": 1,
+    "tags": [
+      "sensory",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Cold Water (Level 19)",
+    "description": "Run cold water over your wrists for 39 seconds.",
+    "duration_minutes": 2,
+    "tags": [
+      "sensory",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Deep Exhale (Level 1)",
+    "description": "Exhale for twice as long as you inhale for 3 cycles.",
+    "duration_minutes": 4,
+    "tags": [
+      "breathing",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Deep Exhale (Level 2)",
+    "description": "Exhale for twice as long as you inhale for 5 cycles.",
+    "duration_minutes": 5,
+    "tags": [
+      "breathing",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Deep Exhale (Level 3)",
+    "description": "Exhale for twice as long as you inhale for 7 cycles.",
+    "duration_minutes": 3,
+    "tags": [
+      "breathing",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Deep Exhale (Level 4)",
+    "description": "Exhale for twice as long as you inhale for 9 cycles.",
+    "duration_minutes": 4,
+    "tags": [
+      "breathing",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Deep Exhale (Level 5)",
+    "description": "Exhale for twice as long as you inhale for 11 cycles.",
+    "duration_minutes": 5,
+    "tags": [
+      "breathing",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Deep Exhale (Level 6)",
+    "description": "Exhale for twice as long as you inhale for 13 cycles.",
+    "duration_minutes": 3,
+    "tags": [
+      "breathing",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Deep Exhale (Level 7)",
+    "description": "Exhale for twice as long as you inhale for 15 cycles.",
+    "duration_minutes": 4,
+    "tags": [
+      "breathing",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Deep Exhale (Level 8)",
+    "description": "Exhale for twice as long as you inhale for 17 cycles.",
+    "duration_minutes": 5,
+    "tags": [
+      "breathing",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Deep Exhale (Level 9)",
+    "description": "Exhale for twice as long as you inhale for 19 cycles.",
+    "duration_minutes": 3,
+    "tags": [
+      "breathing",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Deep Exhale (Level 10)",
+    "description": "Exhale for twice as long as you inhale for 21 cycles.",
+    "duration_minutes": 4,
+    "tags": [
+      "breathing",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Deep Exhale (Level 11)",
+    "description": "Exhale for twice as long as you inhale for 23 cycles.",
+    "duration_minutes": 5,
+    "tags": [
+      "breathing",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Deep Exhale (Level 12)",
+    "description": "Exhale for twice as long as you inhale for 25 cycles.",
+    "duration_minutes": 3,
+    "tags": [
+      "breathing",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Deep Exhale (Level 13)",
+    "description": "Exhale for twice as long as you inhale for 27 cycles.",
+    "duration_minutes": 4,
+    "tags": [
+      "breathing",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Deep Exhale (Level 14)",
+    "description": "Exhale for twice as long as you inhale for 29 cycles.",
+    "duration_minutes": 5,
+    "tags": [
+      "breathing",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Deep Exhale (Level 15)",
+    "description": "Exhale for twice as long as you inhale for 31 cycles.",
+    "duration_minutes": 3,
+    "tags": [
+      "breathing",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Deep Exhale (Level 16)",
+    "description": "Exhale for twice as long as you inhale for 33 cycles.",
+    "duration_minutes": 4,
+    "tags": [
+      "breathing",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Deep Exhale (Level 17)",
+    "description": "Exhale for twice as long as you inhale for 35 cycles.",
+    "duration_minutes": 5,
+    "tags": [
+      "breathing",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Deep Exhale (Level 18)",
+    "description": "Exhale for twice as long as you inhale for 37 cycles.",
+    "duration_minutes": 3,
+    "tags": [
+      "breathing",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Anxious",
+    "action": "Deep Exhale (Level 19)",
+    "description": "Exhale for twice as long as you inhale for 39 cycles.",
+    "duration_minutes": 4,
+    "tags": [
+      "breathing",
+      "calm",
+      "anxious"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Paper Tear (Level 1)",
+    "description": "Tear a piece of paper into 3 tiny pieces.",
+    "duration_minutes": 3,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Paper Tear (Level 2)",
+    "description": "Tear a piece of paper into 5 tiny pieces.",
+    "duration_minutes": 4,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Paper Tear (Level 3)",
+    "description": "Tear a piece of paper into 7 tiny pieces.",
+    "duration_minutes": 2,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Paper Tear (Level 4)",
+    "description": "Tear a piece of paper into 9 tiny pieces.",
+    "duration_minutes": 3,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Paper Tear (Level 5)",
+    "description": "Tear a piece of paper into 11 tiny pieces.",
+    "duration_minutes": 4,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Paper Tear (Level 6)",
+    "description": "Tear a piece of paper into 13 tiny pieces.",
+    "duration_minutes": 2,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Paper Tear (Level 7)",
+    "description": "Tear a piece of paper into 15 tiny pieces.",
+    "duration_minutes": 3,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Paper Tear (Level 8)",
+    "description": "Tear a piece of paper into 17 tiny pieces.",
+    "duration_minutes": 4,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Paper Tear (Level 9)",
+    "description": "Tear a piece of paper into 19 tiny pieces.",
+    "duration_minutes": 2,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Paper Tear (Level 10)",
+    "description": "Tear a piece of paper into 21 tiny pieces.",
+    "duration_minutes": 3,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Paper Tear (Level 11)",
+    "description": "Tear a piece of paper into 23 tiny pieces.",
+    "duration_minutes": 4,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Paper Tear (Level 12)",
+    "description": "Tear a piece of paper into 25 tiny pieces.",
+    "duration_minutes": 2,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Paper Tear (Level 13)",
+    "description": "Tear a piece of paper into 27 tiny pieces.",
+    "duration_minutes": 3,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Paper Tear (Level 14)",
+    "description": "Tear a piece of paper into 29 tiny pieces.",
+    "duration_minutes": 4,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Paper Tear (Level 15)",
+    "description": "Tear a piece of paper into 31 tiny pieces.",
+    "duration_minutes": 2,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Paper Tear (Level 16)",
+    "description": "Tear a piece of paper into 33 tiny pieces.",
+    "duration_minutes": 3,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Paper Tear (Level 17)",
+    "description": "Tear a piece of paper into 35 tiny pieces.",
+    "duration_minutes": 4,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Paper Tear (Level 18)",
+    "description": "Tear a piece of paper into 37 tiny pieces.",
+    "duration_minutes": 2,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Paper Tear (Level 19)",
+    "description": "Tear a piece of paper into 39 tiny pieces.",
+    "duration_minutes": 3,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Squeeze Ball (Level 1)",
+    "description": "Squeeze a stress ball or pillow 3 times.",
+    "duration_minutes": 2,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Squeeze Ball (Level 2)",
+    "description": "Squeeze a stress ball or pillow 5 times.",
+    "duration_minutes": 3,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Squeeze Ball (Level 3)",
+    "description": "Squeeze a stress ball or pillow 7 times.",
+    "duration_minutes": 1,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Squeeze Ball (Level 4)",
+    "description": "Squeeze a stress ball or pillow 9 times.",
+    "duration_minutes": 2,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Squeeze Ball (Level 5)",
+    "description": "Squeeze a stress ball or pillow 11 times.",
+    "duration_minutes": 3,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Squeeze Ball (Level 6)",
+    "description": "Squeeze a stress ball or pillow 13 times.",
+    "duration_minutes": 1,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Squeeze Ball (Level 7)",
+    "description": "Squeeze a stress ball or pillow 15 times.",
+    "duration_minutes": 2,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Squeeze Ball (Level 8)",
+    "description": "Squeeze a stress ball or pillow 17 times.",
+    "duration_minutes": 3,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Squeeze Ball (Level 9)",
+    "description": "Squeeze a stress ball or pillow 19 times.",
+    "duration_minutes": 1,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Squeeze Ball (Level 10)",
+    "description": "Squeeze a stress ball or pillow 21 times.",
+    "duration_minutes": 2,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Squeeze Ball (Level 11)",
+    "description": "Squeeze a stress ball or pillow 23 times.",
+    "duration_minutes": 3,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Squeeze Ball (Level 12)",
+    "description": "Squeeze a stress ball or pillow 25 times.",
+    "duration_minutes": 1,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Squeeze Ball (Level 13)",
+    "description": "Squeeze a stress ball or pillow 27 times.",
+    "duration_minutes": 2,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Squeeze Ball (Level 14)",
+    "description": "Squeeze a stress ball or pillow 29 times.",
+    "duration_minutes": 3,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Squeeze Ball (Level 15)",
+    "description": "Squeeze a stress ball or pillow 31 times.",
+    "duration_minutes": 1,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Squeeze Ball (Level 16)",
+    "description": "Squeeze a stress ball or pillow 33 times.",
+    "duration_minutes": 2,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Squeeze Ball (Level 17)",
+    "description": "Squeeze a stress ball or pillow 35 times.",
+    "duration_minutes": 3,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Squeeze Ball (Level 18)",
+    "description": "Squeeze a stress ball or pillow 37 times.",
+    "duration_minutes": 1,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Squeeze Ball (Level 19)",
+    "description": "Squeeze a stress ball or pillow 39 times.",
+    "duration_minutes": 2,
+    "tags": [
+      "release",
+      "physical",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Count Down (Level 1)",
+    "description": "Count backwards from 3 to 0 slowly.",
+    "duration_minutes": 2,
+    "tags": [
+      "mindfulness",
+      "control",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Count Down (Level 2)",
+    "description": "Count backwards from 5 to 0 slowly.",
+    "duration_minutes": 3,
+    "tags": [
+      "mindfulness",
+      "control",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Count Down (Level 3)",
+    "description": "Count backwards from 7 to 0 slowly.",
+    "duration_minutes": 1,
+    "tags": [
+      "mindfulness",
+      "control",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Count Down (Level 4)",
+    "description": "Count backwards from 9 to 0 slowly.",
+    "duration_minutes": 2,
+    "tags": [
+      "mindfulness",
+      "control",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Count Down (Level 5)",
+    "description": "Count backwards from 11 to 0 slowly.",
+    "duration_minutes": 3,
+    "tags": [
+      "mindfulness",
+      "control",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Count Down (Level 6)",
+    "description": "Count backwards from 13 to 0 slowly.",
+    "duration_minutes": 1,
+    "tags": [
+      "mindfulness",
+      "control",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Count Down (Level 7)",
+    "description": "Count backwards from 15 to 0 slowly.",
+    "duration_minutes": 2,
+    "tags": [
+      "mindfulness",
+      "control",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Count Down (Level 8)",
+    "description": "Count backwards from 17 to 0 slowly.",
+    "duration_minutes": 3,
+    "tags": [
+      "mindfulness",
+      "control",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Count Down (Level 9)",
+    "description": "Count backwards from 19 to 0 slowly.",
+    "duration_minutes": 1,
+    "tags": [
+      "mindfulness",
+      "control",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Count Down (Level 10)",
+    "description": "Count backwards from 21 to 0 slowly.",
+    "duration_minutes": 2,
+    "tags": [
+      "mindfulness",
+      "control",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Count Down (Level 11)",
+    "description": "Count backwards from 23 to 0 slowly.",
+    "duration_minutes": 3,
+    "tags": [
+      "mindfulness",
+      "control",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Count Down (Level 12)",
+    "description": "Count backwards from 25 to 0 slowly.",
+    "duration_minutes": 1,
+    "tags": [
+      "mindfulness",
+      "control",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Count Down (Level 13)",
+    "description": "Count backwards from 27 to 0 slowly.",
+    "duration_minutes": 2,
+    "tags": [
+      "mindfulness",
+      "control",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Count Down (Level 14)",
+    "description": "Count backwards from 29 to 0 slowly.",
+    "duration_minutes": 3,
+    "tags": [
+      "mindfulness",
+      "control",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Count Down (Level 15)",
+    "description": "Count backwards from 31 to 0 slowly.",
+    "duration_minutes": 1,
+    "tags": [
+      "mindfulness",
+      "control",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Count Down (Level 16)",
+    "description": "Count backwards from 33 to 0 slowly.",
+    "duration_minutes": 2,
+    "tags": [
+      "mindfulness",
+      "control",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Count Down (Level 17)",
+    "description": "Count backwards from 35 to 0 slowly.",
+    "duration_minutes": 3,
+    "tags": [
+      "mindfulness",
+      "control",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Count Down (Level 18)",
+    "description": "Count backwards from 37 to 0 slowly.",
+    "duration_minutes": 1,
+    "tags": [
+      "mindfulness",
+      "control",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Angry",
+    "action": "Count Down (Level 19)",
+    "description": "Count backwards from 39 to 0 slowly.",
+    "duration_minutes": 2,
+    "tags": [
+      "mindfulness",
+      "control",
+      "angry"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Doodle (Level 1)",
+    "description": "Draw 3 random shapes on a piece of paper.",
+    "duration_minutes": 4,
+    "tags": [
+      "creativity",
+      "fun",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Doodle (Level 2)",
+    "description": "Draw 5 random shapes on a piece of paper.",
+    "duration_minutes": 5,
+    "tags": [
+      "creativity",
+      "fun",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Doodle (Level 3)",
+    "description": "Draw 7 random shapes on a piece of paper.",
+    "duration_minutes": 3,
+    "tags": [
+      "creativity",
+      "fun",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Doodle (Level 4)",
+    "description": "Draw 9 random shapes on a piece of paper.",
+    "duration_minutes": 4,
+    "tags": [
+      "creativity",
+      "fun",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Doodle (Level 5)",
+    "description": "Draw 11 random shapes on a piece of paper.",
+    "duration_minutes": 5,
+    "tags": [
+      "creativity",
+      "fun",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Doodle (Level 6)",
+    "description": "Draw 13 random shapes on a piece of paper.",
+    "duration_minutes": 3,
+    "tags": [
+      "creativity",
+      "fun",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Doodle (Level 7)",
+    "description": "Draw 15 random shapes on a piece of paper.",
+    "duration_minutes": 4,
+    "tags": [
+      "creativity",
+      "fun",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Doodle (Level 8)",
+    "description": "Draw 17 random shapes on a piece of paper.",
+    "duration_minutes": 5,
+    "tags": [
+      "creativity",
+      "fun",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Doodle (Level 9)",
+    "description": "Draw 19 random shapes on a piece of paper.",
+    "duration_minutes": 3,
+    "tags": [
+      "creativity",
+      "fun",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Doodle (Level 10)",
+    "description": "Draw 21 random shapes on a piece of paper.",
+    "duration_minutes": 4,
+    "tags": [
+      "creativity",
+      "fun",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Doodle (Level 11)",
+    "description": "Draw 23 random shapes on a piece of paper.",
+    "duration_minutes": 5,
+    "tags": [
+      "creativity",
+      "fun",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Doodle (Level 12)",
+    "description": "Draw 25 random shapes on a piece of paper.",
+    "duration_minutes": 3,
+    "tags": [
+      "creativity",
+      "fun",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Doodle (Level 13)",
+    "description": "Draw 27 random shapes on a piece of paper.",
+    "duration_minutes": 4,
+    "tags": [
+      "creativity",
+      "fun",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Doodle (Level 14)",
+    "description": "Draw 29 random shapes on a piece of paper.",
+    "duration_minutes": 5,
+    "tags": [
+      "creativity",
+      "fun",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Doodle (Level 15)",
+    "description": "Draw 31 random shapes on a piece of paper.",
+    "duration_minutes": 3,
+    "tags": [
+      "creativity",
+      "fun",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Doodle (Level 16)",
+    "description": "Draw 33 random shapes on a piece of paper.",
+    "duration_minutes": 4,
+    "tags": [
+      "creativity",
+      "fun",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Doodle (Level 17)",
+    "description": "Draw 35 random shapes on a piece of paper.",
+    "duration_minutes": 5,
+    "tags": [
+      "creativity",
+      "fun",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Doodle (Level 18)",
+    "description": "Draw 37 random shapes on a piece of paper.",
+    "duration_minutes": 3,
+    "tags": [
+      "creativity",
+      "fun",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Doodle (Level 19)",
+    "description": "Draw 39 random shapes on a piece of paper.",
+    "duration_minutes": 4,
+    "tags": [
+      "creativity",
+      "fun",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Learn New (Level 1)",
+    "description": "Read one article about a topic you know nothing about for 3 minutes.",
+    "duration_minutes": 6,
+    "tags": [
+      "learning",
+      "curiosity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Learn New (Level 2)",
+    "description": "Read one article about a topic you know nothing about for 5 minutes.",
+    "duration_minutes": 7,
+    "tags": [
+      "learning",
+      "curiosity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Learn New (Level 3)",
+    "description": "Read one article about a topic you know nothing about for 7 minutes.",
+    "duration_minutes": 5,
+    "tags": [
+      "learning",
+      "curiosity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Learn New (Level 4)",
+    "description": "Read one article about a topic you know nothing about for 9 minutes.",
+    "duration_minutes": 6,
+    "tags": [
+      "learning",
+      "curiosity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Learn New (Level 5)",
+    "description": "Read one article about a topic you know nothing about for 11 minutes.",
+    "duration_minutes": 7,
+    "tags": [
+      "learning",
+      "curiosity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Learn New (Level 6)",
+    "description": "Read one article about a topic you know nothing about for 13 minutes.",
+    "duration_minutes": 5,
+    "tags": [
+      "learning",
+      "curiosity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Learn New (Level 7)",
+    "description": "Read one article about a topic you know nothing about for 15 minutes.",
+    "duration_minutes": 6,
+    "tags": [
+      "learning",
+      "curiosity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Learn New (Level 8)",
+    "description": "Read one article about a topic you know nothing about for 17 minutes.",
+    "duration_minutes": 7,
+    "tags": [
+      "learning",
+      "curiosity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Learn New (Level 9)",
+    "description": "Read one article about a topic you know nothing about for 19 minutes.",
+    "duration_minutes": 5,
+    "tags": [
+      "learning",
+      "curiosity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Learn New (Level 10)",
+    "description": "Read one article about a topic you know nothing about for 21 minutes.",
+    "duration_minutes": 6,
+    "tags": [
+      "learning",
+      "curiosity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Learn New (Level 11)",
+    "description": "Read one article about a topic you know nothing about for 23 minutes.",
+    "duration_minutes": 7,
+    "tags": [
+      "learning",
+      "curiosity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Learn New (Level 12)",
+    "description": "Read one article about a topic you know nothing about for 25 minutes.",
+    "duration_minutes": 5,
+    "tags": [
+      "learning",
+      "curiosity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Learn New (Level 13)",
+    "description": "Read one article about a topic you know nothing about for 27 minutes.",
+    "duration_minutes": 6,
+    "tags": [
+      "learning",
+      "curiosity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Learn New (Level 14)",
+    "description": "Read one article about a topic you know nothing about for 29 minutes.",
+    "duration_minutes": 7,
+    "tags": [
+      "learning",
+      "curiosity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Learn New (Level 15)",
+    "description": "Read one article about a topic you know nothing about for 31 minutes.",
+    "duration_minutes": 5,
+    "tags": [
+      "learning",
+      "curiosity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Learn New (Level 16)",
+    "description": "Read one article about a topic you know nothing about for 33 minutes.",
+    "duration_minutes": 6,
+    "tags": [
+      "learning",
+      "curiosity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Learn New (Level 17)",
+    "description": "Read one article about a topic you know nothing about for 35 minutes.",
+    "duration_minutes": 7,
+    "tags": [
+      "learning",
+      "curiosity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Learn New (Level 18)",
+    "description": "Read one article about a topic you know nothing about for 37 minutes.",
+    "duration_minutes": 5,
+    "tags": [
+      "learning",
+      "curiosity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Learn New (Level 19)",
+    "description": "Read one article about a topic you know nothing about for 39 minutes.",
+    "duration_minutes": 6,
+    "tags": [
+      "learning",
+      "curiosity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Clean Up (Level 1)",
+    "description": "Clean 3 small area of your room.",
+    "duration_minutes": 6,
+    "tags": [
+      "environment",
+      "productivity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Clean Up (Level 2)",
+    "description": "Clean 5 small area of your room.",
+    "duration_minutes": 7,
+    "tags": [
+      "environment",
+      "productivity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Clean Up (Level 3)",
+    "description": "Clean 7 small area of your room.",
+    "duration_minutes": 5,
+    "tags": [
+      "environment",
+      "productivity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Clean Up (Level 4)",
+    "description": "Clean 9 small area of your room.",
+    "duration_minutes": 6,
+    "tags": [
+      "environment",
+      "productivity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Clean Up (Level 5)",
+    "description": "Clean 11 small area of your room.",
+    "duration_minutes": 7,
+    "tags": [
+      "environment",
+      "productivity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Clean Up (Level 6)",
+    "description": "Clean 13 small area of your room.",
+    "duration_minutes": 5,
+    "tags": [
+      "environment",
+      "productivity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Clean Up (Level 7)",
+    "description": "Clean 15 small area of your room.",
+    "duration_minutes": 6,
+    "tags": [
+      "environment",
+      "productivity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Clean Up (Level 8)",
+    "description": "Clean 17 small area of your room.",
+    "duration_minutes": 7,
+    "tags": [
+      "environment",
+      "productivity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Clean Up (Level 9)",
+    "description": "Clean 19 small area of your room.",
+    "duration_minutes": 5,
+    "tags": [
+      "environment",
+      "productivity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Clean Up (Level 10)",
+    "description": "Clean 21 small area of your room.",
+    "duration_minutes": 6,
+    "tags": [
+      "environment",
+      "productivity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Clean Up (Level 11)",
+    "description": "Clean 23 small area of your room.",
+    "duration_minutes": 7,
+    "tags": [
+      "environment",
+      "productivity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Clean Up (Level 12)",
+    "description": "Clean 25 small area of your room.",
+    "duration_minutes": 5,
+    "tags": [
+      "environment",
+      "productivity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Clean Up (Level 13)",
+    "description": "Clean 27 small area of your room.",
+    "duration_minutes": 6,
+    "tags": [
+      "environment",
+      "productivity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Clean Up (Level 14)",
+    "description": "Clean 29 small area of your room.",
+    "duration_minutes": 7,
+    "tags": [
+      "environment",
+      "productivity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Clean Up (Level 15)",
+    "description": "Clean 31 small area of your room.",
+    "duration_minutes": 5,
+    "tags": [
+      "environment",
+      "productivity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Clean Up (Level 16)",
+    "description": "Clean 33 small area of your room.",
+    "duration_minutes": 6,
+    "tags": [
+      "environment",
+      "productivity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Clean Up (Level 17)",
+    "description": "Clean 35 small area of your room.",
+    "duration_minutes": 7,
+    "tags": [
+      "environment",
+      "productivity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Clean Up (Level 18)",
+    "description": "Clean 37 small area of your room.",
+    "duration_minutes": 5,
+    "tags": [
+      "environment",
+      "productivity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Bored",
+    "action": "Clean Up (Level 19)",
+    "description": "Clean 39 small area of your room.",
+    "duration_minutes": 6,
+    "tags": [
+      "environment",
+      "productivity",
+      "bored"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "One Thing (Level 1)",
+    "description": "Focus on just ONE task for the next 3 minutes.",
+    "duration_minutes": 6,
+    "tags": [
+      "focus",
+      "productivity",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "One Thing (Level 2)",
+    "description": "Focus on just ONE task for the next 5 minutes.",
+    "duration_minutes": 7,
+    "tags": [
+      "focus",
+      "productivity",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "One Thing (Level 3)",
+    "description": "Focus on just ONE task for the next 7 minutes.",
+    "duration_minutes": 5,
+    "tags": [
+      "focus",
+      "productivity",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "One Thing (Level 4)",
+    "description": "Focus on just ONE task for the next 9 minutes.",
+    "duration_minutes": 6,
+    "tags": [
+      "focus",
+      "productivity",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "One Thing (Level 5)",
+    "description": "Focus on just ONE task for the next 11 minutes.",
+    "duration_minutes": 7,
+    "tags": [
+      "focus",
+      "productivity",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "One Thing (Level 6)",
+    "description": "Focus on just ONE task for the next 13 minutes.",
+    "duration_minutes": 5,
+    "tags": [
+      "focus",
+      "productivity",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "One Thing (Level 7)",
+    "description": "Focus on just ONE task for the next 15 minutes.",
+    "duration_minutes": 6,
+    "tags": [
+      "focus",
+      "productivity",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "One Thing (Level 8)",
+    "description": "Focus on just ONE task for the next 17 minutes.",
+    "duration_minutes": 7,
+    "tags": [
+      "focus",
+      "productivity",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "One Thing (Level 9)",
+    "description": "Focus on just ONE task for the next 19 minutes.",
+    "duration_minutes": 5,
+    "tags": [
+      "focus",
+      "productivity",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "One Thing (Level 10)",
+    "description": "Focus on just ONE task for the next 21 minutes.",
+    "duration_minutes": 6,
+    "tags": [
+      "focus",
+      "productivity",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "One Thing (Level 11)",
+    "description": "Focus on just ONE task for the next 23 minutes.",
+    "duration_minutes": 7,
+    "tags": [
+      "focus",
+      "productivity",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "One Thing (Level 12)",
+    "description": "Focus on just ONE task for the next 25 minutes.",
+    "duration_minutes": 5,
+    "tags": [
+      "focus",
+      "productivity",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "One Thing (Level 13)",
+    "description": "Focus on just ONE task for the next 27 minutes.",
+    "duration_minutes": 6,
+    "tags": [
+      "focus",
+      "productivity",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "One Thing (Level 14)",
+    "description": "Focus on just ONE task for the next 29 minutes.",
+    "duration_minutes": 7,
+    "tags": [
+      "focus",
+      "productivity",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "One Thing (Level 15)",
+    "description": "Focus on just ONE task for the next 31 minutes.",
+    "duration_minutes": 5,
+    "tags": [
+      "focus",
+      "productivity",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "One Thing (Level 16)",
+    "description": "Focus on just ONE task for the next 33 minutes.",
+    "duration_minutes": 6,
+    "tags": [
+      "focus",
+      "productivity",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "One Thing (Level 17)",
+    "description": "Focus on just ONE task for the next 35 minutes.",
+    "duration_minutes": 7,
+    "tags": [
+      "focus",
+      "productivity",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "One Thing (Level 18)",
+    "description": "Focus on just ONE task for the next 37 minutes.",
+    "duration_minutes": 5,
+    "tags": [
+      "focus",
+      "productivity",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "One Thing (Level 19)",
+    "description": "Focus on just ONE task for the next 39 minutes.",
+    "duration_minutes": 6,
+    "tags": [
+      "focus",
+      "productivity",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "No Screen (Level 1)",
+    "description": "Look away from all screens for 3 minutes.",
+    "duration_minutes": 6,
+    "tags": [
+      "rest",
+      "digital-detox",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "No Screen (Level 2)",
+    "description": "Look away from all screens for 5 minutes.",
+    "duration_minutes": 7,
+    "tags": [
+      "rest",
+      "digital-detox",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "No Screen (Level 3)",
+    "description": "Look away from all screens for 7 minutes.",
+    "duration_minutes": 5,
+    "tags": [
+      "rest",
+      "digital-detox",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "No Screen (Level 4)",
+    "description": "Look away from all screens for 9 minutes.",
+    "duration_minutes": 6,
+    "tags": [
+      "rest",
+      "digital-detox",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "No Screen (Level 5)",
+    "description": "Look away from all screens for 11 minutes.",
+    "duration_minutes": 7,
+    "tags": [
+      "rest",
+      "digital-detox",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "No Screen (Level 6)",
+    "description": "Look away from all screens for 13 minutes.",
+    "duration_minutes": 5,
+    "tags": [
+      "rest",
+      "digital-detox",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "No Screen (Level 7)",
+    "description": "Look away from all screens for 15 minutes.",
+    "duration_minutes": 6,
+    "tags": [
+      "rest",
+      "digital-detox",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "No Screen (Level 8)",
+    "description": "Look away from all screens for 17 minutes.",
+    "duration_minutes": 7,
+    "tags": [
+      "rest",
+      "digital-detox",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "No Screen (Level 9)",
+    "description": "Look away from all screens for 19 minutes.",
+    "duration_minutes": 5,
+    "tags": [
+      "rest",
+      "digital-detox",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "No Screen (Level 10)",
+    "description": "Look away from all screens for 21 minutes.",
+    "duration_minutes": 6,
+    "tags": [
+      "rest",
+      "digital-detox",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "No Screen (Level 11)",
+    "description": "Look away from all screens for 23 minutes.",
+    "duration_minutes": 7,
+    "tags": [
+      "rest",
+      "digital-detox",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "No Screen (Level 12)",
+    "description": "Look away from all screens for 25 minutes.",
+    "duration_minutes": 5,
+    "tags": [
+      "rest",
+      "digital-detox",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "No Screen (Level 13)",
+    "description": "Look away from all screens for 27 minutes.",
+    "duration_minutes": 6,
+    "tags": [
+      "rest",
+      "digital-detox",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "No Screen (Level 14)",
+    "description": "Look away from all screens for 29 minutes.",
+    "duration_minutes": 7,
+    "tags": [
+      "rest",
+      "digital-detox",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "No Screen (Level 15)",
+    "description": "Look away from all screens for 31 minutes.",
+    "duration_minutes": 5,
+    "tags": [
+      "rest",
+      "digital-detox",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "No Screen (Level 16)",
+    "description": "Look away from all screens for 33 minutes.",
+    "duration_minutes": 6,
+    "tags": [
+      "rest",
+      "digital-detox",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "No Screen (Level 17)",
+    "description": "Look away from all screens for 35 minutes.",
+    "duration_minutes": 7,
+    "tags": [
+      "rest",
+      "digital-detox",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "No Screen (Level 18)",
+    "description": "Look away from all screens for 37 minutes.",
+    "duration_minutes": 5,
+    "tags": [
+      "rest",
+      "digital-detox",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "No Screen (Level 19)",
+    "description": "Look away from all screens for 39 minutes.",
+    "duration_minutes": 6,
+    "tags": [
+      "rest",
+      "digital-detox",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "Floor Lie (Level 1)",
+    "description": "Lie flat on the floor for 3 minutes and feel the ground.",
+    "duration_minutes": 4,
+    "tags": [
+      "grounding",
+      "rest",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "Floor Lie (Level 2)",
+    "description": "Lie flat on the floor for 5 minutes and feel the ground.",
+    "duration_minutes": 5,
+    "tags": [
+      "grounding",
+      "rest",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "Floor Lie (Level 3)",
+    "description": "Lie flat on the floor for 7 minutes and feel the ground.",
+    "duration_minutes": 3,
+    "tags": [
+      "grounding",
+      "rest",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "Floor Lie (Level 4)",
+    "description": "Lie flat on the floor for 9 minutes and feel the ground.",
+    "duration_minutes": 4,
+    "tags": [
+      "grounding",
+      "rest",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "Floor Lie (Level 5)",
+    "description": "Lie flat on the floor for 11 minutes and feel the ground.",
+    "duration_minutes": 5,
+    "tags": [
+      "grounding",
+      "rest",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "Floor Lie (Level 6)",
+    "description": "Lie flat on the floor for 13 minutes and feel the ground.",
+    "duration_minutes": 3,
+    "tags": [
+      "grounding",
+      "rest",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "Floor Lie (Level 7)",
+    "description": "Lie flat on the floor for 15 minutes and feel the ground.",
+    "duration_minutes": 4,
+    "tags": [
+      "grounding",
+      "rest",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "Floor Lie (Level 8)",
+    "description": "Lie flat on the floor for 17 minutes and feel the ground.",
+    "duration_minutes": 5,
+    "tags": [
+      "grounding",
+      "rest",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "Floor Lie (Level 9)",
+    "description": "Lie flat on the floor for 19 minutes and feel the ground.",
+    "duration_minutes": 3,
+    "tags": [
+      "grounding",
+      "rest",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "Floor Lie (Level 10)",
+    "description": "Lie flat on the floor for 21 minutes and feel the ground.",
+    "duration_minutes": 4,
+    "tags": [
+      "grounding",
+      "rest",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "Floor Lie (Level 11)",
+    "description": "Lie flat on the floor for 23 minutes and feel the ground.",
+    "duration_minutes": 5,
+    "tags": [
+      "grounding",
+      "rest",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "Floor Lie (Level 12)",
+    "description": "Lie flat on the floor for 25 minutes and feel the ground.",
+    "duration_minutes": 3,
+    "tags": [
+      "grounding",
+      "rest",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "Floor Lie (Level 13)",
+    "description": "Lie flat on the floor for 27 minutes and feel the ground.",
+    "duration_minutes": 4,
+    "tags": [
+      "grounding",
+      "rest",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "Floor Lie (Level 14)",
+    "description": "Lie flat on the floor for 29 minutes and feel the ground.",
+    "duration_minutes": 5,
+    "tags": [
+      "grounding",
+      "rest",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "Floor Lie (Level 15)",
+    "description": "Lie flat on the floor for 31 minutes and feel the ground.",
+    "duration_minutes": 3,
+    "tags": [
+      "grounding",
+      "rest",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "Floor Lie (Level 16)",
+    "description": "Lie flat on the floor for 33 minutes and feel the ground.",
+    "duration_minutes": 4,
+    "tags": [
+      "grounding",
+      "rest",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "Floor Lie (Level 17)",
+    "description": "Lie flat on the floor for 35 minutes and feel the ground.",
+    "duration_minutes": 5,
+    "tags": [
+      "grounding",
+      "rest",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "Floor Lie (Level 18)",
+    "description": "Lie flat on the floor for 37 minutes and feel the ground.",
+    "duration_minutes": 3,
+    "tags": [
+      "grounding",
+      "rest",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Overwhelmed",
+    "action": "Floor Lie (Level 19)",
+    "description": "Lie flat on the floor for 39 minutes and feel the ground.",
+    "duration_minutes": 4,
+    "tags": [
+      "grounding",
+      "rest",
+      "overwhelmed"
+    ]
+  },
+  {
+    "emotion": "Stressed",
+    "action": "4-7-8 Breathing",
+    "description": "Inhale 4s, hold 7s, exhale 8s.",
+    "duration_minutes": 3,
+    "tags": [
+      "breathing"
+    ]
+  },
+  {
+    "emotion": "Happy",
+    "action": "Victory Dance",
+    "description": "Do a silly dance for 1 minute.",
+    "duration_minutes": 1,
+    "tags": [
+      "movement"
+    ]
+  }
+]

@@ -1,0 +1,228 @@
+{
+    "openapi": "3.0.2",
+    "info": {
+        "title": "Mindful Moment Agent API",
+        "version": "1.0.0",
+        "description": "API for the Mindful Moment AI Companion, providing emotion analysis and wellness micro-actions."
+    },
+    "paths": {
+        "/analyze": {
+            "post": {
+                "summary": "Analyze Mood",
+                "description": "Analyzes user text to detect emotion and suggest a micro-action.",
+                "operationId": "analyze_mood",
+                "requestBody": {
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "$ref": "#/components/schemas/UserRequest"
+                            }
+                        }
+                    },
+                    "required": true
+                },
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/FullAnalysisResponse"
+                                }
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/history": {
+            "get": {
+                "summary": "Get History",
+                "description": "Retrieves the full history of user interactions.",
+                "operationId": "get_history",
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "object"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/stats": {
+            "get": {
+                "summary": "Get Stats",
+                "description": "Returns usage statistics.",
+                "operationId": "get_stats",
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "additionalProperties": {
+                                        "type": "integer"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "components": {
+        "schemas": {
+            "UserRequest": {
+                "title": "UserRequest",
+                "required": [
+                    "text"
+                ],
+                "type": "object",
+                "properties": {
+                    "text": {
+                        "title": "Text",
+                        "type": "string"
+                    },
+                    "user_id": {
+                        "title": "User Id",
+                        "type": "string",
+                        "default": "default_user"
+                    }
+                }
+            },
+            "EmotionResponse": {
+                "title": "EmotionResponse",
+                "required": [
+                    "emotion",
+                    "confidence"
+                ],
+                "type": "object",
+                "properties": {
+                    "emotion": {
+                        "title": "Emotion",
+                        "type": "string"
+                    },
+                    "confidence": {
+                        "title": "Confidence",
+                        "type": "number"
+                    }
+                }
+            },
+            "ActionResponse": {
+                "title": "ActionResponse",
+                "required": [
+                    "action",
+                    "description",
+                    "duration_minutes"
+                ],
+                "type": "object",
+                "properties": {
+                    "action": {
+                        "title": "Action",
+                        "type": "string"
+                    },
+                    "description": {
+                        "title": "Description",
+                        "type": "string"
+                    },
+                    "duration_minutes": {
+                        "title": "Duration Minutes",
+                        "type": "integer"
+                    },
+                    "context_note": {
+                        "title": "Context Note",
+                        "type": "string",
+                        "default": ""
+                    }
+                }
+            },
+            "FullAnalysisResponse": {
+                "title": "FullAnalysisResponse",
+                "required": [
+                    "original_text",
+                    "detected_emotion",
+                    "suggested_action"
+                ],
+                "type": "object",
+                "properties": {
+                    "original_text": {
+                        "title": "Original Text",
+                        "type": "string"
+                    },
+                    "detected_emotion": {
+                        "$ref": "#/components/schemas/EmotionResponse"
+                    },
+                    "suggested_action": {
+                        "$ref": "#/components/schemas/ActionResponse"
+                    }
+                }
+            },
+            "HTTPValidationError": {
+                "title": "HTTPValidationError",
+                "type": "object",
+                "properties": {
+                    "detail": {
+                        "title": "Detail",
+                        "type": "array",
+                        "items": {
+                            "$ref": "#/components/schemas/ValidationError"
+                        }
+                    }
+                }
+            },
+            "ValidationError": {
+                "title": "ValidationError",
+                "required": [
+                    "loc",
+                    "msg",
+                    "type"
+                ],
+                "type": "object",
+                "properties": {
+                    "loc": {
+                        "title": "Location",
+                        "type": "array",
+                        "items": {
+                            "anyOf": [
+                                {
+                                    "type": "string"
+                                },
+                                {
+                                    "type": "integer"
+                                }
+                            ]
+                        }
+                    },
+                    "msg": {
+                        "title": "Message",
+                        "type": "string"
+                    },
+                    "type": {
+                        "title": "Error Type",
+                        "type": "string"
+                    }
+                }
+            }
+        }
+    }
+}

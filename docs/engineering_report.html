@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Report - Mindful Moment Agent</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+
+        body {
+            font-family: 'Roboto', sans-serif;
+            line-height: 1.6;
+            color: #222;
+            max-width: 850px;
+            margin: 0 auto;
+            padding: 40px;
+            background: #fff;
+        }
+
+        h1 {
+            font-size: 2.2em;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #555;
+            margin-bottom: 40px;
+            font-style: italic;
+        }
+
+        h2 {
+            color: #333;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 10px;
+            margin-top: 40px;
+        }
+
+        h3 {
+            color: #444;
+            margin-top: 25px;
+        }
+
+        p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+
+        .diagram-box {
+            text-align: center;
+            margin: 30px 0;
+            padding: 10px;
+            border: 1px solid #eee;
+        }
+
+        img {
+            max-width: 95%;
+            height: auto;
+        }
+
+        ul {
+            margin-bottom: 20px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        @media print {
+            body {
+                padding: 0;
+            }
+
+            .no-print {
+                display: none;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="no-print" style="background: #f0f0f0; padding: 10px; text-align: center; margin-bottom: 20px;">
+        To save as PDF: Press <strong>Ctrl + P</strong> and select "Save as PDF".
+    </div>
+
+    <h1>Mindful Moment Agent: Engineering Report</h1>
+    <div class="subtitle">
+        Final Project Submission<br>
+        December 2025
+    </div>
+
+    <h2>1. Introduction</h2>
+    <p>
+        For this project, the goal was to build a "Mindful Moment Agent"—a simple AI companion that helps users manage
+        stress and emotions. The key requirement was privacy.
+        Most AI apps send data to the cloud, but for something personal like mental health, we wanted everything to run
+        locally on the user's computer.
+    </p>
+    <p>
+        The system uses a local Large Language Model (Llama 3.2) to analyze how a user is feeling and then suggests a
+        quick "micro-action" (like a breathing exercise) to help them feel better.
+    </p>
+
+    <h2>2. System Design</h2>
+    <p>
+        The application is built using Python and FastAPI for the backend, with a simple HTML/CSS frontend. We chose a
+        micro-service approach where different "agents" handle different parts of the job.
+    </p>
+
+    <div class="diagram-box">
+        <img src="system_architecture.png" alt="System Architecture">
+        <p><em>Figure 1: Overview of the system components.</em></p>
+    </div>
+
+    <h3>Key Components</h3>
+    <ul>
+        <li><strong>Frontend:</strong> A clean web interface where users type their thoughts. We used a "Glassmorphism"
+            style to make it look modern and calming.</li>
+        <li><strong>Backend (FastAPI):</strong> This acts as the main controller. It receives the text from the frontend
+            and passes it to the agents.</li>
+        <li><strong>Emotion Agent:</strong> This part of the code is responsible for figuring out the user's mood. It
+            sends a prompt to the Llama 3 model asking it to classify the text into categories like "Stressed," "Happy,"
+            or "Anxious."</li>
+        <li><strong>RAG Service:</strong> We didn't want the AI to just hallucinate advice. So, we built a database of
+            over 500 verified wellness tips. The system searches this database for tips that match the user's current
+            emotion.</li>
+    </ul>
+
+    <h2>3. Implementation Details</h2>
+
+    <h3>Working with Local LLMs</h3>
+    <p>
+        One of the biggest hurdles was getting the local AI to work smoothly with our Python code. We initially tried
+        using standard libraries like LangChain, but we kept running into compatibility errors with our specific Python
+        version.
+    </p>
+    <p>
+        To fix this, we ended up writing a custom script to talk to the Ollama API directly. It was a bit more work
+        upfront, but it actually made the system faster and gave us more control over exactly what we sent to the model.
+    </p>
+
+    <h3>Data Generation</h3>
+    <p>
+        When we started, we only had about 10 wellness tips, which got repetitive very quickly. To solve this, we wrote
+        a script to generate a larger dataset. We created templates for different emotions and used them to generate
+        around 570 unique actions. This makes the app feel much more "alive" because it rarely repeats the same advice
+        twice.
+    </p>
+
+    <h2>4. How It Works (Workflow)</h2>
+    <p>
+        Here is what happens when a user types something like "I'm really tired of work":
+    </p>
+    <ol>
+        <li>The text is sent to the backend API.</li>
+        <li>The <strong>Emotion Agent</strong> analyzes it and decides the user is "Tired" (Confidence: 90%).</li>
+        <li>The <strong>RAG System</strong> looks up "Tired" in our database and finds actions like "Hydration Boost" or
+            "Quick Stretch."</li>
+        <li>The <strong>Planner Agent</strong> takes the best suggestion and formats it into a nice message for the
+            user.</li>
+        <li>Finally, the interaction is saved to a local history file so the user can see it later.</li>
+    </ol>
+
+    <h2>5. Conclusion</h2>
+    <p>
+        This project successfully demonstrates that you don't need a massive cloud server to build useful AI
+        applications. By using efficient tools like FastAPI and local models like Llama 3, we built a privacy-focused
+        wellness agent that is responsive and helpful.
+    </p>
+    <p>
+        Future improvements could include adding voice support or connecting it to a smartwatch to detect stress
+        automatically, but the current version fulfills all the core requirements set out at the beginning.
+    </p>
+
+</body>
+
+</html>

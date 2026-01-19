@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Mindful Journey</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+    <div class="background-blobs">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+        <div class="blob blob-3"></div>
+    </div>
+
+    <main class="glass-container history-container">
+        <header>
+            <a href="/" class="back-link">← Back to Home</a>
+            <h1>My Journey</h1>
+            <p>Your past moments of mindfulness.</p>
+        </header>
+
+        <div id="historyList" class="history-list">
+            <!-- History items will be injected here -->
+            <div class="loader" style="margin: 2rem auto; display: block;"></div>
+        </div>
+    </main>
+
+    <script src="/static/script.js"></script>
+    <script>
+        // Auto-load history when this page opens
+        document.addEventListener('DOMContentLoaded', loadHistory);
+    </script>
+</body>
+
+</html>

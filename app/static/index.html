@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mindful Moment AI</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+    <div class="background-blobs">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+        <div class="blob blob-3"></div>
+    </div>
+
+    <main class="glass-container">
+        <header>
+            <h1>Mindful Moment</h1>
+            <p>How are you feeling right now?</p>
+            <a href="/view-history"
+                style="font-size: 0.9rem; color: var(--primary-color); text-decoration: none; font-weight: 600;">📜 View
+                My Journey</a>
+        </header>
+
+        <section class="input-section">
+            <div class="input-wrapper" style="position: relative;">
+                <textarea id="userInput" placeholder="I'm feeling a bit overwhelmed with work..." rows="3"></textarea>
+                <button id="voiceBtn" onclick="startDictation()" title="Speak your mind"
+                    style="position: absolute; right: 10px; bottom: 10px; width: 40px; height: 40px; border-radius: 50%; padding: 0; background: rgba(99, 102, 241, 0.1); color: var(--primary-color);">
+                    🎙️
+                </button>
+                <span id="voiceStatus"
+                    style="position: absolute; right: 60px; bottom: 20px; font-size: 0.8rem; color: #64748b;"></span>
+            </div>
+            <button id="analyzeBtn" onclick="analyzeMood()">
+                <span class="btn-text">Find Calm</span>
+                <div class="loader" id="loader"></div>
+            </button>
+        </section>
+
+        <section id="resultSection" class="result-section hidden">
+            <div class="emotion-badge" id="emotionBadge">
+                <span id="emotionIcon">🌊</span>
+                <span id="emotionText">Calm</span>
+            </div>
+
+            <div class="action-card">
+                <h2 id="actionTitle">Deep Breathing</h2>
+                <div class="meta-info">
+                    <span class="duration">⏱️ <span id="actionDuration">5</span> mins</span>
+                </div>
+                <p id="actionDescription">Take a deep breath in for 4 seconds, hold for 4, and exhale for 4.</p>
+                <div class="context-note">
+                    <small>💡 <span id="contextNote">Suggested because it's late evening.</span></small>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script src="/static/script.js?v=3"></script>
+</body>
+
+</html>
